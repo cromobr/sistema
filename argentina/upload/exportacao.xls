@@ -1,0 +1,573 @@
+
+    <table border='0'>
+        <tr >
+            <td style='background-color: darkblue; color: white;' colspan='6'> </td>            
+        </tr>
+        <tr >
+            <td style='background-color: darkblue; color: white;' colspan='6'> 
+                ARGENTINA IMPORTAÇÃO DETALHADA / DESCRIÇÃO DE MARCAS
+            </td>            
+        </tr>
+        <tr >
+            <td colspan='6'> Empresa: Intercamp Sistemas</td>
+        </tr>
+        <tr >
+            <td colspan='6'> Usuário: Bruno Cromo</td>
+        </tr>
+     </table>
+     <BR />        
+     
+        <table align=center cellpadding=3>
+            <tr>    
+                <td colspan='6' style='background-color: darkblue; color: white;'> Dados da Consulta</td>
+            </tr>
+            <tr>
+                <td colspan='3'> Descricao / Marca / Modelo</td>
+                <td colspan='3' style='text-align: left;'></td>
+            </tr>
+            <tr>
+                <td colspan='3'> NCM </td>
+                <td colspan='3' style='text-align: left;'> 84 </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Data Inicial </td>
+                <td colspan='3' style='text-align: left;'>
+                    01-01-2014
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Data Final </td>
+                <td colspan='3' style='text-align: left;'> 
+                    31-01-2014
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Valor Unitário </td>
+                <td colspan='3' style='text-align: left;'>Inicial: 0
+                Final: 0</td>
+            </tr>
+        </table>
+        <br />
+    <table border='1'>
+        <tr style='background-color: darkblue; color: white;'>
+
+        <td> Data</td>
+        <td> Origem</td>
+        <td> Compra</td>
+        <td> NCM</td>
+        <td> Importador</td>
+        <td> Marca</td>
+        <td> Modelo</td>
+        <td> Qtde</td>
+        <td> Unidade</td>
+        <td> V. Unitário </td>
+        <td> V. Total</td>
+        </tr>
+        
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-08</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561011</td>
+        <td style='width: 380; height: 50; text-align: left;'> DEBENELUX SRL</td>
+        <td style='width: 150; text-align: left;'> GN LASER</td>
+        <td style='width: 150; text-align: left;'> GN.CY3015.850W</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 121.050,00</td>
+        <td style='width: 80; text-align: right;'> 121.050,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-03</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> No informado</td>
+        <td style='width: 150; text-align: left;'> LITZ</td>
+        <td style='width: 150; text-align: left;'> CV 1000</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 70.704,09</td>
+        <td style='width: 80; text-align: right;'> 70.704,09</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-06</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> BARBIERI LUIS MARIA</td>
+        <td style='width: 150; text-align: left;'> LEADERWAY</td>
+        <td style='width: 150; text-align: left;'> V42IW</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 62.500,00</td>
+        <td style='width: 80; text-align: right;'> 62.500,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-06</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> BARBIERI LUIS MARIA</td>
+        <td style='width: 150; text-align: left;'> LEADERWAY</td>
+        <td style='width: 150; text-align: left;'> V42I</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 25.000,00</td>
+        <td style='width: 80; text-align: right;'> 25.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-06</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> F V SOCIEDAD ANONIMA</td>
+        <td style='width: 150; text-align: left;'> HAAS AUTOMATION INC</td>
+        <td style='width: 150; text-align: left;'> EC 300</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 123.900,00</td>
+        <td style='width: 80; text-align: right;'> 123.900,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-09</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUSTRIAS CAMPORESI  S A C I F I</td>
+        <td style='width: 150; text-align: left;'> DMTG</td>
+        <td style='width: 150; text-align: left;'> VDL 1000</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 68.744,00</td>
+        <td style='width: 80; text-align: right;'> 68.744,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-09</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> K F TRADE SA</td>
+        <td style='width: 150; text-align: left;'> FIRST</td>
+        <td style='width: 150; text-align: left;'> V700</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 45.000,00</td>
+        <td style='width: 80; text-align: right;'> 45.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-13</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> BARBIERI LUIS MARIA</td>
+        <td style='width: 150; text-align: left;'> YCM</td>
+        <td style='width: 150; text-align: left;'> NXV1020A</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 63.150,00</td>
+        <td style='width: 80; text-align: right;'> 63.150,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-13</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> BARBIERI LUIS MARIA</td>
+        <td style='width: 150; text-align: left;'> YCM</td>
+        <td style='width: 150; text-align: left;'> NXV1020A</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 63.150,00</td>
+        <td style='width: 80; text-align: right;'> 63.150,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-14</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> No informado</td>
+        <td style='width: 150; text-align: left;'> ROMI</td>
+        <td style='width: 150; text-align: left;'> PH400</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 225.000,00</td>
+        <td style='width: 80; text-align: right;'> 225.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-14</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> No informado</td>
+        <td style='width: 150; text-align: left;'> LITZ HITECH CORP</td>
+        <td style='width: 150; text-align: left;'> CV 1200 A</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 82.377,00</td>
+        <td style='width: 80; text-align: right;'> 82.377,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-16</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> BARBIERI LUIS MARIA</td>
+        <td style='width: 150; text-align: left;'> S M</td>
+        <td style='width: 150; text-align: left;'> LG1000</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 63.000,00</td>
+        <td style='width: 80; text-align: right;'> 63.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-17</td>
+        <td style='width: 80; text-align: center;'> JapÃ£o</td>
+        <td style='width: 80; text-align: center;'> JapÃ£o</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> No informado</td>
+        <td style='width: 150; text-align: left;'> SHIN NIPPON KOKI</td>
+        <td style='width: 150; text-align: left;'> RB 5M</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 820.037,68</td>
+        <td style='width: 80; text-align: right;'> 820.037,68</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-20</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> VENTURI HNOS S A C I Y F</td>
+        <td style='width: 150; text-align: left;'> ROMI</td>
+        <td style='width: 150; text-align: left;'> D 1250</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 100.200,00</td>
+        <td style='width: 80; text-align: right;'> 100.200,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-20</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> VENTURI HNOS S A C I Y F</td>
+        <td style='width: 150; text-align: left;'> ROMI</td>
+        <td style='width: 150; text-align: left;'> D 1250</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 102.000,00</td>
+        <td style='width: 80; text-align: right;'> 102.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-21</td>
+        <td style='width: 80; text-align: center;'> Coreia do Sul</td>
+        <td style='width: 80; text-align: center;'> Coreia do Sul</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MECANIZADO ITUZAINGO S.A.</td>
+        <td style='width: 150; text-align: left;'> HYUNDAI WIA MACHINE</td>
+        <td style='width: 150; text-align: left;'> F410D</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 73.890,00</td>
+        <td style='width: 80; text-align: right;'> 73.890,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-22</td>
+        <td style='width: 80; text-align: center;'> Coreia do Norte</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ALYCO SRL</td>
+        <td style='width: 150; text-align: left;'> HYUNDAI WIA</td>
+        <td style='width: 150; text-align: left;'> F410D</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 77.270,00</td>
+        <td style='width: 80; text-align: right;'> 77.270,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-27</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> PROMECOR SA</td>
+        <td style='width: 150; text-align: left;'> MONFORTS</td>
+        <td style='width: 150; text-align: left;'> FS 3220</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 251.410,00</td>
+        <td style='width: 80; text-align: right;'> 251.410,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-27</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 80; text-align: center;'> Taiwan</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> BARBIERI LUIS MARIA</td>
+        <td style='width: 150; text-align: left;'> LEADERWAY</td>
+        <td style='width: 150; text-align: left;'> V42I</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 25.000,00</td>
+        <td style='width: 80; text-align: right;'> 25.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-29</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUSTRIAS CAMPORESI  S A C I F I</td>
+        <td style='width: 150; text-align: left;'> ANHUI WHITE EAGLE</td>
+        <td style='width: 150; text-align: left;'> VMC650</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 34.150,00</td>
+        <td style='width: 80; text-align: right;'> 34.150,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-31</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> METALURGICA ED MA SRL</td>
+        <td style='width: 150; text-align: left;'> ROMI</td>
+        <td style='width: 150; text-align: left;'> D800</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 95.000,00</td>
+        <td style='width: 80; text-align: right;'> 95.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-06</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> LURGO CARLOS ORESTE</td>
+        <td style='width: 150; text-align: left;'> SMTCL</td>
+        <td style='width: 150; text-align: left;'> CAK1630NI</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 10.680,00</td>
+        <td style='width: 80; text-align: right;'> 21.360,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-07</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> No informado</td>
+        <td style='width: 150; text-align: left;'> HYUNDAI WIA</td>
+        <td style='width: 150; text-align: left;'> L280</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 90.858,00</td>
+        <td style='width: 80; text-align: right;'> 90.858,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-08</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> DEFANTE Y CIA S A DE MAQUINAS Y HERRAMIENTA</td>
+        <td style='width: 150; text-align: left;'> DALIAN</td>
+        <td style='width: 150; text-align: left;'> L 2060</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 45.000,00</td>
+        <td style='width: 80; text-align: right;'> 45.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-09</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> K F TRADE SA</td>
+        <td style='width: 150; text-align: left;'> HYUNDAI WIA MACHINE</td>
+        <td style='width: 150; text-align: left;'> E160LMA</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 57.315,00</td>
+        <td style='width: 80; text-align: right;'> 57.315,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-10</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> BARBIERI LUIS MARIA</td>
+        <td style='width: 150; text-align: left;'> SE DESCONOCE</td>
+        <td style='width: 150; text-align: left;'> CKE6150X750</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 16.683,00</td>
+        <td style='width: 80; text-align: right;'> 16.683,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-14</td>
+        <td style='width: 80; text-align: center;'> TaiwÃ¡n</td>
+        <td style='width: 80; text-align: center;'> TaiwÃ¡n</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> No informado</td>
+        <td style='width: 150; text-align: left;'> GOODWAY</td>
+        <td style='width: 150; text-align: left;'> GA 3600</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 62.363,00</td>
+        <td style='width: 80; text-align: right;'> 62.363,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-14</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> No informado</td>
+        <td style='width: 150; text-align: left;'> DOOSAN</td>
+        <td style='width: 150; text-align: left;'> LYNX 300</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 69.708,00</td>
+        <td style='width: 80; text-align: right;'> 69.708,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-14</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> No informado</td>
+        <td style='width: 150; text-align: left;'> DOOSAN</td>
+        <td style='width: 150; text-align: left;'> LYNX 220LC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 57.352,00</td>
+        <td style='width: 80; text-align: right;'> 57.352,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-14</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> No informado</td>
+        <td style='width: 150; text-align: left;'> SUNMORE</td>
+        <td style='width: 150; text-align: left;'> STC36 CNC GSKTDB</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 17.202,00</td>
+        <td style='width: 80; text-align: right;'> 17.202,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-15</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> MECANIZADO ITUZAINGO S.A.</td>
+        <td style='width: 150; text-align: left;'> HYUNDAI WIA MACHINE</td>
+        <td style='width: 150; text-align: left;'> KIT400</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 34.750,00</td>
+        <td style='width: 80; text-align: right;'> 34.750,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-15</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> VMG SOCIEDAD ANONIMA</td>
+        <td style='width: 150; text-align: left;'> CNDN</td>
+        <td style='width: 150; text-align: left;'> CK6130</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 10.500,00</td>
+        <td style='width: 80; text-align: right;'> 10.500,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-23</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> LURGO CARLOS ORESTE</td>
+        <td style='width: 150; text-align: left;'> JULI</td>
+        <td style='width: 150; text-align: left;'> TRA 32X</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 158.959,04</td>
+        <td style='width: 80; text-align: right;'> 158.959,04</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-23</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> NOSTOR S A</td>
+        <td style='width: 150; text-align: left;'> HANWHA</td>
+        <td style='width: 150; text-align: left;'> XD20H</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 115.000,00</td>
+        <td style='width: 80; text-align: right;'> 115.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-23</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> JapÃ³n</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> CENTRO INTEGRAL DE LA MAQUINA HERRAMIENTA S A C I M H</td>
+        <td style='width: 150; text-align: left;'> STAR</td>
+        <td style='width: 150; text-align: left;'> SR 20JC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 133.909,10</td>
+        <td style='width: 80; text-align: right;'> 133.909,10</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-23</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> MECANIZADO ITUZAINGO S.A.</td>
+        <td style='width: 150; text-align: left;'> HYUNDAI WIA MACHINE</td>
+        <td style='width: 150; text-align: left;'> KIT400</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 34.750,00</td>
+        <td style='width: 80; text-align: right;'> 34.750,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-23</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> JapÃ³n</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> CENTRO INTEGRAL DE LA MAQUINA HERRAMIENTA S A C I M H</td>
+        <td style='width: 150; text-align: left;'> STAR</td>
+        <td style='width: 150; text-align: left;'> SR 20JC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 136.867,77</td>
+        <td style='width: 80; text-align: right;'> 136.867,77</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-28</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> DEFANTE Y CIA S A DE MAQUINAS Y HERRAMIENTA</td>
+        <td style='width: 150; text-align: left;'> DALIAN</td>
+        <td style='width: 150; text-align: left;'> CKE6130I</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 12.200,00</td>
+        <td style='width: 80; text-align: right;'> 24.400,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-01-30</td>
+        <td style='width: 80; text-align: center;'> JapÃ³n</td>
+        <td style='width: 80; text-align: center;'> JapÃ³n</td>
+        <td style='width: 70; text-align: center;'> 84581199</td>
+        <td style='width: 380; height: 50; text-align: left;'> NICASTRO JOSE SALVADOR</td>
+        <td style='width: 150; text-align: left;'> MORI SEIKI</td>
+        <td style='width: 150; text-align: left;'> NLX2500MC 700</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 119.600,00</td>
+        <td style='width: 80; text-align: right;'> 119.600,00</td>   
+        </tr><tr> <td  colspan='10' style='text-align: center';> Obs.: Dados preliminares sujeitos a modificaçoes </td></tr><tr> <td  colspan='10' style='text-align: center';>Fonte: Informação Oficial </td></tr><tr> <td  colspan='10' style='text-align: center';>* Corresponde ao Total da Declaração </td></tr><tr> <td  colspan='10' style='text-align: center';>www.infoalert.com.br </td></tr><tr> <td  colspan='10' style='text-align: center';>Email: comercial@infoalert.com.br </td></tr></table>

@@ -1,0 +1,1264 @@
+
+    <table border='0'>
+        <tr >
+            <td style='background-color: darkblue; color: white;' colspan='6'> </td>            
+        </tr>
+        <tr >
+            <td style='background-color: darkblue; color: white;' colspan='6'> 
+                BRASIL IMPORTAÇÃO DETALHADA / DESCRIÇÃO DE MARCAS
+            </td>            
+        </tr>
+        <tr >
+            <td colspan='6'> Empresa: INFOALERT</td>
+        </tr>
+        <tr >
+            <td colspan='6'> Usuário: Pedro Elias Cromo</td>
+        </tr>
+     </table>
+     <BR />        
+     
+        <table align=center cellpadding=3>
+            <tr>    
+                <td colspan='6' style='background-color: darkblue; color: white;'> Dados da Consulta</td>
+            </tr>
+            <tr>
+                <td colspan='3'> Descricao / Marca / Modelo</td>
+                <td colspan='3' style='text-align: left;'></td>
+            </tr>
+            <tr>
+                <td colspan='3'> NCM </td>
+                <td colspan='3' style='text-align: left;'> 84209100 </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Data Inicial </td>
+                <td colspan='3' style='text-align: left;'>
+                    01-01-2014
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Data Final </td>
+                <td colspan='3' style='text-align: left;'> 
+                    01-12-2014
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Valor Unitário </td>
+                <td colspan='3' style='text-align: left;'>Inicial: 0
+                Final: 0</td>
+            </tr>
+        </table>
+        <br />
+    <table border='1'>
+        <tr style='background-color: darkblue; color: white;'>
+        <td> Data</td>
+        <td> Origem</td>
+        <td> Compra</td>
+        <td> NCM</td>
+        <td> Descrição NCM</td>
+        <td> Qtde</td>
+        <td> Unidade</td>
+        <td> V. Unitário </td>
+        <td> V. Total</td>
+        <td> Produto Descricao Detalhada</td>
+        </tr>
+        
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 4.789,38</td>
+        <td style='width: 80; text-align: right;'>4.789,38</td>
+        <td style='height: 80; width: 500'> (LIS GEN CÓDIGO G006) - CILINDRO DE GRAVAÇÃO,  EM AÇO CARBONO COM REVESTIMENTO DE CROMO DURO,  PARA MÁQUINA DE ESPALMATURA (MODELO DA IMAGEM LUCERTOLA).</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 4.789,38</td>
+        <td style='width: 80; text-align: right;'>4.789,38</td>
+        <td style='height: 80; width: 500'> (LIS GEN CÓDIGO G010) - CILINDRO DE GRAVAÇÃO,  EM AÇO CARBONO COM REVESTIMENTO DE CROMO DURO,  PARA MÁQUINA DE ESPALMATURA (MODELO DA IMAGEM VÍPERA)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 2.736,79</td>
+        <td style='width: 80; text-align: right;'>2.736,79</td>
+        <td style='height: 80; width: 500'> (LIS GEN CÓDIGO SPY) - CILINDRO DE GRAVAÇÃO,  EM AÇO CARBONO COM REVESTIMENTO DE CROMO DURO,  PARA MÁQUINA DE ESTAMPA (MODELO DA IMAGEM PITONE)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 2.123,89</td>
+        <td style='width: 80; text-align: right;'>2.123,89</td>
+        <td style='height: 80; width: 500'> H05058 TA0827002 - OUTRAS PARTES DE CALANDRAS E LAMINADORES,  EXCETO OS DESTINADOS AO TRATAMENTO DE METAIS OU VIDRO,  E SEUS CILINDROS SENDO: EMBOSSING STEEL ROLLER 240*1700</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 876,11</td>
+        <td style='width: 80; text-align: right;'>876,11</td>
+        <td style='height: 80; width: 500'> 1P-4372 - OUTRAS PARTES DE CALANDRAS E LAMINADORES,  EXCETO OS DESTINADOS AO TRATAMENTO DE METAIS OU VIDRO,  E SEUS CILINDROS SENDO: PRINTING ROLLER 137.5*1700</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> JAPAO</td>
+        <td style='width: 80; text-align: center;'> JAPAO</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 345,36</td>
+        <td style='width: 80; text-align: right;'>345,36</td>
+        <td style='height: 80; width: 500'> . NE-00006-070-YA CILINDRO PNEUMATICO MOD.: CG1LA40-700 / RETIFICA IZUMI</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> HONG KONG</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 400,00</td>
+        <td style='width: 80; text-align: right;'>400,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE AÇO DE TAMANHO 400MM X 543 MM UTILIZADO PARA GRAVAÇÃO DE BITONO NO LABORATORIO DE FABRICAÇÃO DE AMOSTRAS DE COURO SINTÉTICO,  DE ESTAMPA ONÇA - Referência: ONCA 400</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> HONG KONG</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 600,00</td>
+        <td style='width: 80; text-align: right;'>600,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE AÇO DE TAMANHO 800MM X 543MM UTILIZADO PARA GRAVAÇÃO DE BITONO NA FABRICAÇÃO DE MEIA LARGURA DE COURO SINTÉTICO,  DE ESTAMPA ONÇA - Referência: ONCA 800</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> HONG KONG</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 1.550,00</td>
+        <td style='width: 80; text-align: right;'>1.550,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE AÇO DE TAMANHO 1800MM X 543MM UTILIZADO PARA GRAVAÇÃO DE BITONO NA FABRICAÇÃO NA LACADORA DE COURO SINTÉTICO,  DE ESTAMPA ONÇA - Referência: ONCA 1800</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 4.200,00</td>
+        <td style='width: 80; text-align: right;'>4.200,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE METAL PARA MARCAR TECIDOS AUTOMOTIVOS 100% POLIESTER.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 12.000,00</td>
+        <td style='width: 80; text-align: right;'>12.000,00</td>
+        <td style='height: 80; width: 500'> 01 PECA - CILINDRO DE GRAVACAO 3D 6H2 DIAMETRO 280 x 1680 x 2080mm</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 3</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 1.289,14</td>
+        <td style='width: 80; text-align: right;'>3.867,42</td>
+        <td style='height: 80; width: 500'> 151023 UPPER FEED ROLLER FOR SGS 300-L10 COATED PC/PUR - Rolo de pressão superior revestido em PC/PUR,  para Granulador de espaguete mod. SGS 300-L10</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 2.145,83</td>
+        <td style='width: 80; text-align: right;'>2.145,83</td>
+        <td style='height: 80; width: 500'> 150950 LOWER FEED ROLL FOR SGS 300-L10 1.4112 - Rolo de pressão inferior,  para Granulador de espaguete mod. SGS 300-L10</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PEÇA</td>        
+        <td style='width: 80; text-align: right;'> 1.800,00</td>
+        <td style='width: 80; text-align: right;'>1.800,00</td>
+        <td style='height: 80; width: 500'> EMBOSSING ROLLER ALKO E121300,  SENDO: CILINDRO PARA CALANDRAS E LAMINADORAS.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 24.806,26</td>
+        <td style='width: 80; text-align: right;'>24.806,26</td>
+        <td style='height: 80; width: 500'> 9808007990 - H017972: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMETRO 409,  INCISAO 6358PE Softop,  FORMATO *2.7* (REFERENCIA EXPORTADOR: 041357)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 29.569,64</td>
+        <td style='width: 80; text-align: right;'>29.569,64</td>
+        <td style='height: 80; width: 500'> 9808007994 - H017975: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMETRO 409,  INCISAO 7997PE409,  FORMATO *2.7* (REFERENCIA EXPORTADOR: 041358)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 33.216,42</td>
+        <td style='width: 80; text-align: right;'>33.216,42</td>
+        <td style='height: 80; width: 500'> 9808007557 - H016637: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMETRO 500,  INCISAO 7832PE500,  FORMATO *2.7*. (REFERENCIA EXPORTADOR: 041013)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 33.216,42</td>
+        <td style='width: 80; text-align: right;'>33.216,42</td>
+        <td style='height: 80; width: 500'> 9808007560 - H016633: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMETRO 500,  INCISAO 7829PE500,  FORMATO *2.7* (REERENCIA EXPORTADOR: 041009)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 32.472,01</td>
+        <td style='width: 80; text-align: right;'>32.472,01</td>
+        <td style='height: 80; width: 500'> 9808007556 - H016636: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMETRO 500,  FORMATO *2.7*,  INCISAO 7831PE500 (REFERENCIA EXPORTADOR: 041012)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 20.389,08</td>
+        <td style='width: 80; text-align: right;'>20.389,08</td>
+        <td style='height: 80; width: 500'> 9808008493 - H018691: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO GOFRADOR DE ACO,  *8005PE265*,  FORMATO *2.7* (REFERENCIA EXPORTADOR: 041681).</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 29.569,64</td>
+        <td style='width: 80; text-align: right;'>29.569,64</td>
+        <td style='height: 80; width: 500'> 9808007989 - H017971: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMETRO 409,  INCISAO 7978PE409,  FORMATO *2.7* (REFERENCIA EXPORTADOR: 041556)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 29.569,64</td>
+        <td style='width: 80; text-align: right;'>29.569,64</td>
+        <td style='height: 80; width: 500'> 9808007991 - H017973: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMETRO 409,  INCISAO 8072PE409,  FORMATO *2.7* (REFERENCIA EXPORTADOR: 041360)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 29.569,64</td>
+        <td style='width: 80; text-align: right;'>29.569,64</td>
+        <td style='height: 80; width: 500'> 9808007993 - H017974: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMETRO 409,  INCISAO 8073PE409,  FORMATO *2.7* (REFERENCIA EXPORTADOR: 041361)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 24.806,26</td>
+        <td style='width: 80; text-align: right;'>24.806,26</td>
+        <td style='height: 80; width: 500'> 9808007995 - H019986: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMETRO 409,  INCISAO 7094PE Softop 60,  FORMATO *2.7* (REFERENCIA EXPORTADOR: 041446)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 24.806,26</td>
+        <td style='width: 80; text-align: right;'>24.806,26</td>
+        <td style='height: 80; width: 500'> 9808007992 - H017972: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMETRO 409,  INCISAO 6358PE Softop,  FORMATO *2.7* (REFERENCIA EXPORTADOR: 041359)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 32.777,16</td>
+        <td style='width: 80; text-align: right;'>32.777,16</td>
+        <td style='height: 80; width: 500'> 9808007558 - H009395: CILINDRO,  COMERCIALMENTE DENOMINADO ROLO ACO,  DIAMENTRO 500,  INCISAO 7833PE500,  FORMATO *2.7* (REFERENCIA EXPORTADOR: 041014)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 7.000,00</td>
+        <td style='width: 80; text-align: right;'>7.000,00</td>
+        <td style='height: 80; width: 500'> W-3011 CILINDRO DE NIQUEL</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 7.000,00</td>
+        <td style='width: 80; text-align: right;'>7.000,00</td>
+        <td style='height: 80; width: 500'> SHR942 CILINDRO DE NIQUEL WX185-A (ILHEUS)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 7.000,00</td>
+        <td style='width: 80; text-align: right;'>7.000,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE NIQUEL W2011-A (BAGE)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 6.700,00</td>
+        <td style='width: 80; text-align: right;'>6.700,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE GRAVACAO NIQUEL UTILIZADO PARA GRAVAÇÃO DE LAMINADOS PLÁSTICOS DE PVC/PU - TRELASS</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 6.700,00</td>
+        <td style='width: 80; text-align: right;'>6.700,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE GRAVACAO NIQUEL - DG148</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 6.700,00</td>
+        <td style='width: 80; text-align: right;'>6.700,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE GRAVACAO NIQUEL - C800230</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 6.700,00</td>
+        <td style='width: 80; text-align: right;'>6.700,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE GRAVACAO NIQUEL - NS1742 (Matelasse)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 18.732,46</td>
+        <td style='width: 80; text-align: right;'>37.464,92</td>
+        <td style='height: 80; width: 500'> CAMISA DO ROLO DA CALANDRA PARA MAQUINA DE PAPEL,  DIM.380X245X2370MM. H87552154</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 12.962,69</td>
+        <td style='width: 80; text-align: right;'>25.925,38</td>
+        <td style='height: 80; width: 500'> CILINDRO REVESTIDO BI-METALICO NA MEDIDA 410x1701MM CONFORME DESENHO 215.20.02107. SEMI FINISHED BARREL FD 250H7/410 X 1701 mm log. BASIC MATERIAL C60 BORA SURFACE ARMOURED WITH REILOY 121</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> JAN 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PEÇA</td>        
+        <td style='width: 80; text-align: right;'> 2.985,00</td>
+        <td style='width: 80; text-align: right;'>2.985,00</td>
+        <td style='height: 80; width: 500'> PARTE PARA MAQUINA DE GRAVACAO A QUENTE E A FRIO DE MATERIAIS SINTETICOS,  SENDO: CILINDRO,  DE ACO RECOBERTO COM SILICONE,  COMPRIMENTO TOTAL: 2100MM,  COMPRIMENTO UTIL IGUAL A 1610MM,  DIAMETRO: 240MM,  ARTIGO: HB 135 SILICON ROLLER.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 2.500,00</td>
+        <td style='width: 80; text-align: right;'>2.500,00</td>
+        <td style='height: 80; width: 500'> ARTIGO ABC-2179 - SILICON EMBOSSING ROLLER - CILINDRO DE GRAVACAO,  DE SILICONE,  UTILIZADO NO TRABALHO DE SUPERFICIE DE LAMINADOS PLASTICOS,  PROPRIO PARA SER UTILIZADO EM CALANDRAS E LAMINADORES. MARCA: NAO POSSUI,  MODELO: NAO POSSUI,  NOME COMERCIAL:</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 14</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 985,59</td>
+        <td style='width: 80; text-align: right;'>13.798,24</td>
+        <td style='height: 80; width: 500'> PARTE E PEÇAS DE REPOSIÇÃO,  ESPECÍFICAS E EXCLUSIVAS PARA MAQUINA TEXTIL,  SENDO: CILINDROS</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 4.800,00</td>
+        <td style='width: 80; text-align: right;'>4.800,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE METAL PARA MARCAR TECIDOS AUTOMOTIVOS 100% POLIESTER.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 5.500,00</td>
+        <td style='width: 80; text-align: right;'>5.500,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE METAL PARA MARCAR TECIDOS AUTOMOTIVOS 100% POLIESTER.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> ESPANHA</td>
+        <td style='width: 80; text-align: center;'> ESPANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> PECAS</td>        
+        <td style='width: 80; text-align: right;'> 725,47</td>
+        <td style='width: 80; text-align: right;'>1.450,94</td>
+        <td style='height: 80; width: 500'> - 1017538 - COMPONENTES PARA REPOSIÇÃO DE PECAS PARA GERADOR EOLICO,  SENDO: - Rótula radial livre 100/160x85 - MARCA: GLUAL</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ESPANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> PECAS</td>        
+        <td style='width: 80; text-align: right;'> 321,51</td>
+        <td style='width: 80; text-align: right;'>643,02</td>
+        <td style='height: 80; width: 500'> - 1017537 - COMPONENTES PARA REPOSIÇÃO DE PECAS PARA GERADOR EOLICO,  SENDO: - Arrastador para rótula (a rolamento 100/160x85) - MARCA: HELMUT</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 54,13</td>
+        <td style='width: 80; text-align: right;'>108,27</td>
+        <td style='height: 80; width: 500'> CILINDRO,  REF.: 00004789 (P/N: 962686)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 24.701,05</td>
+        <td style='width: 80; text-align: right;'>24.701,05</td>
+        <td style='height: 80; width: 500'> 9808008510 - H018516: CILINDROS,  COMERCIALMENTE DENOMINADO ROLO ACO,  FORMATO *2.7*,  DIMENSAO 409,  INC. 5209PE (FUSION) (REFERENCIA EXPORTADOR: 041775).</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> NUMERO</td>        
+        <td style='width: 80; text-align: right;'> 27.017,62</td>
+        <td style='width: 80; text-align: right;'>27.017,62</td>
+        <td style='height: 80; width: 500'> 9808008510 - H018515: CILINDROS,  COMERCIALMENTE DENOMINADO ROLO DE ACO,  FORMATO *2.7*,  DIAMETRO 409,  INC. 8136PE (FUSION) (REFERENCIA EXPORTADOR: 041774).</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 7.200,00</td>
+        <td style='width: 80; text-align: right;'>7.200,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE GRAVACAO NIQUEL UTILIZADO PARA GRAVAÇÃO DE LAMINADOS PLÁSTICOS DE PVC/PU - JS 2</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 7.200,00</td>
+        <td style='width: 80; text-align: right;'>7.200,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE GRAVACAO NIQUEL UTILIZADO PARA GRAVAÇÃO DE LAMINADOS PLÁSTICOS DE PVC/PU - LV 1359</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 9.690,00</td>
+        <td style='width: 80; text-align: right;'>19.380,00</td>
+        <td style='height: 80; width: 500'> PARTES E PEÇAS PARA MÁQUINA TEXTIL,  SENDO: CILINDROS DE PAPEL - CÓD 0913716</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 4</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 950,00</td>
+        <td style='width: 80; text-align: right;'>3.800,00</td>
+        <td style='height: 80; width: 500'> PARTES E PEÇAS PARA MÁQUINA TEXTIL,  SENDO: CILINDROS - CÓDIGO: 0913245</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 5.012,00</td>
+        <td style='width: 80; text-align: right;'>5.012,00</td>
+        <td style='height: 80; width: 500'> MIRROR ROLLER - CILINDRO ESPELHADO</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> FORMOSA (TAIWAN)</td>
+        <td style='width: 80; text-align: center;'> FORMOSA (TAIWAN)</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 6.100,00</td>
+        <td style='width: 80; text-align: right;'>12.200,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE SILICONE PARA CALANDRA,  DESENHO 350 X 400 X 2000 X 2500L,  DUREZA DO SILICONE: 65-70</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> TAILANDIA</td>
+        <td style='width: 80; text-align: center;'> CINGAPURA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 38,16</td>
+        <td style='width: 80; text-align: right;'>38,16</td>
+        <td style='height: 80; width: 500'> PN(69005-0K590);<JOGO DE CILINDRO>;ORG(TDB-SERVICE-PARTS)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> TAILANDIA</td>
+        <td style='width: 80; text-align: center;'> CINGAPURA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 38,16</td>
+        <td style='width: 80; text-align: right;'>38,16</td>
+        <td style='height: 80; width: 500'> PN(69005-0K590);<JOGO DE CILINDRO>;ORG(TDB-SERVICE-PARTS)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> TAILANDIA</td>
+        <td style='width: 80; text-align: center;'> CINGAPURA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 3</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 38,16</td>
+        <td style='width: 80; text-align: right;'>114,48</td>
+        <td style='height: 80; width: 500'> PN(69005-0K590);<JOGO DE CILINDRO>;ORG(TDB-SERVICE-PARTS)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 4</td>
+        <td style='width: 80; text-align: center;'> JOGO</td>        
+        <td style='width: 80; text-align: right;'> 6.000,00</td>
+        <td style='width: 80; text-align: right;'>24.000,00</td>
+        <td style='height: 80; width: 500'> 04 JGS - CILINDROS COM A SUPERFICIE ESPELHADA DIAMENTRO 500 x 1800MM</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 3</td>
+        <td style='width: 80; text-align: center;'> JOGO</td>        
+        <td style='width: 80; text-align: right;'> 7.200,00</td>
+        <td style='width: 80; text-align: right;'>21.600,00</td>
+        <td style='height: 80; width: 500'> 03 JGS - CILINDROS COM A SUPERFICIE ESPELHADA DIAMENTRO 500 x 1800MM</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> FEV 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 3</td>
+        <td style='width: 80; text-align: center;'> JOGO</td>        
+        <td style='width: 80; text-align: right;'> 4.700,00</td>
+        <td style='width: 80; text-align: right;'>14.100,00</td>
+        <td style='height: 80; width: 500'> 03 JGS - CILINDROS COM A SUPERFICIE ESPELHADA DIAMENTRO 500 x 1200MM</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 196,48</td>
+        <td style='width: 80; text-align: right;'>392,96</td>
+        <td style='height: 80; width: 500'> 991.486.694 - (Replaces 991.486.118) - CILINDRO APLICACAO:CABECOTE ONDULADOR PETERS MODELO:VARIOSTAR 221 SAP: 80013854</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 2.270,52</td>
+        <td style='width: 80; text-align: right;'>4.541,04</td>
+        <td style='height: 80; width: 500'> 870017568 - Rolete contato borracha 40</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 274,74</td>
+        <td style='width: 80; text-align: right;'>274,74</td>
+        <td style='height: 80; width: 500'> 50064577 ITEM 39 Cilindro,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 1.434,74</td>
+        <td style='width: 80; text-align: right;'>1.434,74</td>
+        <td style='height: 80; width: 500'> 50064494 ITEM 581 Cilindro hidraulico,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 2.156,81</td>
+        <td style='width: 80; text-align: right;'>2.156,81</td>
+        <td style='height: 80; width: 500'> 50064468 ITEM 564 Cilindro hidraulico,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> FRANCA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 1.663,69</td>
+        <td style='width: 80; text-align: right;'>1.663,69</td>
+        <td style='height: 80; width: 500'> 50064485 ITEM 409 Cilindro hidraulico,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> SUECIA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 2.155,64</td>
+        <td style='width: 80; text-align: right;'>2.155,64</td>
+        <td style='height: 80; width: 500'> 50064469 ITEM 10 Cilindro,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 12</td>
+        <td style='width: 80; text-align: center;'> PEÇA</td>        
+        <td style='width: 80; text-align: right;'> 655,66</td>
+        <td style='width: 80; text-align: right;'>7.867,91</td>
+        <td style='height: 80; width: 500'> 80071785 - PARTES DE MAQUINA PARA PRODUÇÃO DE GARRAFAS EM PET SENDO: VALVULA VMK 15 DR NC KNA 517513</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ITALIA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 12</td>
+        <td style='width: 80; text-align: center;'> PEÇA</td>        
+        <td style='width: 80; text-align: right;'> 655,66</td>
+        <td style='width: 80; text-align: right;'>7.867,91</td>
+        <td style='height: 80; width: 500'> 80071785 - PARTES DE MAQUINA PARA PRODUÇÃO DE GARRAFAS EM PET SENDO: VALVULA VMK 15 DR NC KNA 517513</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> REINO UNIDO</td>
+        <td style='width: 80; text-align: center;'> REINO UNIDO</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 20.079,19</td>
+        <td style='width: 80; text-align: right;'>20.079,19</td>
+        <td style='height: 80; width: 500'> CILINDRO DE AÇO REVESTIDO COM CAMISA DE POLIAMIDA SYNCAST,  COM PONTA DE EIXO CROMADA PARA CALANDRA TÊXTIL (1900MM X 520MM) 0.6MM DIAMETROS,  RM-045642-2</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> REINO UNIDO</td>
+        <td style='width: 80; text-align: center;'> REINO UNIDO</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 16.640,21</td>
+        <td style='width: 80; text-align: right;'>16.640,21</td>
+        <td style='height: 80; width: 500'> CAMISA DE POLIAMIDA SYNCAST PA6G PARA CILINDRO DE AÇO DA CALANDRA TEXTIL (3400MM X 500MM),  RM-043849-3</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> SUICA</td>
+        <td style='width: 80; text-align: center;'> SUICA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 7.291,13</td>
+        <td style='width: 80; text-align: right;'>14.582,27</td>
+        <td style='height: 80; width: 500'> SFL -81116-810 - CILINDRO 3+4 400/1800 Pedido: 47558516 Fatura: 7013413538</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 5.500,00</td>
+        <td style='width: 80; text-align: right;'>5.500,00</td>
+        <td style='height: 80; width: 500'> CILINDRO DE METAL (SPRAY 5) PARA MARCAR TECIDOS AUTOMOTIVOS 100% POLIESTER</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> FORMOSA (TAIWAN)</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 7.280,00</td>
+        <td style='width: 80; text-align: right;'>7.280,00</td>
+        <td style='height: 80; width: 500'> L-1909 CILINDRO DE NICKEL USADO PARA PVC</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> FORMOSA (TAIWAN)</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 7.280,00</td>
+        <td style='width: 80; text-align: right;'>7.280,00</td>
+        <td style='height: 80; width: 500'> A-1867 CILINDRO DE NICKEL USADO PARA PVC</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> FORMOSA (TAIWAN)</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 7.280,00</td>
+        <td style='width: 80; text-align: right;'>7.280,00</td>
+        <td style='height: 80; width: 500'> A-4387 CILINDRO DE NICKEL USADO PARA PVC</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> FORMOSA (TAIWAN)</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 7.280,00</td>
+        <td style='width: 80; text-align: right;'>7.280,00</td>
+        <td style='height: 80; width: 500'> L-1893 CILINDRO DE NICKEL USADO PARA PVC</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> FORMOSA (TAIWAN)</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 7.280,00</td>
+        <td style='width: 80; text-align: right;'>7.280,00</td>
+        <td style='height: 80; width: 500'> A-4261 CILINDRO DE NICKEL USADO PARA PVC</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> TAILANDIA</td>
+        <td style='width: 80; text-align: center;'> CINGAPURA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 38,16</td>
+        <td style='width: 80; text-align: right;'>38,16</td>
+        <td style='height: 80; width: 500'> PN(69005-0K590);<JOGO DE CILINDRO>;ORG(TDB-SERVICE-PARTS)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> TAILANDIA</td>
+        <td style='width: 80; text-align: center;'> CINGAPURA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 38,16</td>
+        <td style='width: 80; text-align: right;'>38,16</td>
+        <td style='height: 80; width: 500'> PN(69005-0K590);<JOGO DE CILINDRO>;ORG(TDB-SERVICE-PARTS)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> TAILANDIA</td>
+        <td style='width: 80; text-align: center;'> CINGAPURA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 38,16</td>
+        <td style='width: 80; text-align: right;'>38,16</td>
+        <td style='height: 80; width: 500'> PN(69005-0K590);<JOGO DE CILINDRO>;ORG(TDB-SERVICE-PARTS)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> TAILANDIA</td>
+        <td style='width: 80; text-align: center;'> CINGAPURA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 38,16</td>
+        <td style='width: 80; text-align: right;'>38,16</td>
+        <td style='height: 80; width: 500'> PN(69005-0K590);<JOGO DE CILINDRO>;ORG(TDB-SERVICE-PARTS)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> TAILANDIA</td>
+        <td style='width: 80; text-align: center;'> CINGAPURA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 4</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 38,16</td>
+        <td style='width: 80; text-align: right;'>152,64</td>
+        <td style='height: 80; width: 500'> PN(69005-0K590);<JOGO DE CILINDRO>;ORG(TDB-SERVICE-PARTS)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> TAILANDIA</td>
+        <td style='width: 80; text-align: center;'> CINGAPURA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 38,16</td>
+        <td style='width: 80; text-align: right;'>38,16</td>
+        <td style='height: 80; width: 500'> PN(69005-0K590);<JOGO DE CILINDRO>;ORG(TDB-SERVICE-PARTS)</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> REINO UNIDO</td>
+        <td style='width: 80; text-align: center;'> REINO UNIDO</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 2</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 5.974,87</td>
+        <td style='width: 80; text-align: right;'>11.949,73</td>
+        <td style='height: 80; width: 500'> 335100-6669 CILINDRO NIP NNC 1850X165X193MM REVEST. ULTRA DINAMICO VERDE 77 SHORE A PARA LAMINADORA PEDIDO: 0910433564</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> SET</td>        
+        <td style='width: 80; text-align: right;'> 11.300,00</td>
+        <td style='width: 80; text-align: right;'>11.300,00</td>
+        <td style='height: 80; width: 500'> ¦PARTES E PECAS PARA MAQUINA DE TRABALHAR MADEIRA NCM 8465: ¦1 SET. CILINDRO GRAVADO D.400 X COMPRIM. 1350MM -</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 4</td>
+        <td style='width: 80; text-align: center;'> PECA</td>        
+        <td style='width: 80; text-align: right;'> 1.785,00</td>
+        <td style='width: 80; text-align: right;'>7.140,00</td>
+        <td style='height: 80; width: 500'> CILINDROS EM FERRO FUNDIDO,  COQUILHADO,  CENTRIFUGADO,  COM DUPLA FUSÃO PARA O PROCESSAMENTO DE BORRACHA,  COM DIÂMETRO IGUAL A 400MM E LARGURA ÚTIL IGUAL A 556MM,  CONTENDO PERFURAÇÕES PARA CIRCULAÇÃO DE ÁGUA PARA CONTROLAR A TEMPERATURA DO PROCESSO,  MA</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 4</td>
+        <td style='width: 80; text-align: center;'> PEÇA</td>        
+        <td style='width: 80; text-align: right;'> 4.200,00</td>
+        <td style='width: 80; text-align: right;'>16.800,00</td>
+        <td style='height: 80; width: 500'> CILINDROS EM FERRO FUNDIDO,  COQUILHADO,  CENTRIFUGADO,  COM A DUPLA FUSÃO PAR A O PROCESSAMENTO DE BORRACHA,  COM DIAMETRO IGUAL A 550MM,  LARGURA ÚTIL IGU AL A 1500MM E COMPRIMENTO IGUAL A 2419MM,  CONTENDO PERFURAÇÕES PARA CIRCULAÇÃO DE ÁGUA PARA CONTRO</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 4</td>
+        <td style='width: 80; text-align: center;'> PEÇA</td>        
+        <td style='width: 80; text-align: right;'> 4.300,00</td>
+        <td style='width: 80; text-align: right;'>17.200,00</td>
+        <td style='height: 80; width: 500'> CILINDROS EM FERRO FUNDIDO,  COQUILHADO,  CENTRIFUGADO,  COM DUPLA FUSÃO PARA O PROCESSAMENTO DE BORRACHA,  COM DIÂMETRO IGUAL A 550MM,  LARGURA ÚTIL IGUAL A 1500MM E COMPRIMENTO IGUAL A 2534MM,  CONTENDO PERFURAÇÕES PARA CIRCULAÇÃO DE ÁGUA PARA CONTROLAR</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PEÇA</td>        
+        <td style='width: 80; text-align: right;'> 7.400,00</td>
+        <td style='width: 80; text-align: right;'>7.400,00</td>
+        <td style='height: 80; width: 500'> CILINDROS EM FERRO FUNDIDO,  COQUILHADO,  CENTRIFUGADO,  COM DUPLA FUSÃO PARA O PROCESSAMENTO DE BORRACHA,  COM DIÂMETRO IGUAL A 550MM,  LARGURA ÚTIL IGUAL A 1500MM E COMPRIMENTO IGUAL A 2534MM,  CONTENDO PERFURAÇÕES PARA CIRCULAÇÃO DE ÁGUA PARA CONTROLAR</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> MAR 2014</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> CHINA, REPUBLICA POP</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> PEÇA</td>        
+        <td style='width: 80; text-align: right;'> 7.250,00</td>
+        <td style='width: 80; text-align: right;'>7.250,00</td>
+        <td style='height: 80; width: 500'> CILINDROS EM FERRO FUNDIDO,  COQUILHADO,  CENTRIFUGADO,  COM DUPLA FUSÃO PARA O PROCESSAMENTO DE BORRACHA,  COM DIÂMETRO IGUAL A 550MM,  LARGURA ÚTIL IGUAL A 1500MM E COMPRIMENTO IGUAL A 2419MM,  CONTENDO PERFURAÇÕES PARA CIRCULAÇÃO DE ÁGUA PARA CONTROLAR</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> UNIDADE</td>        
+        <td style='width: 80; text-align: right;'> 3.800,52</td>
+        <td style='width: 80; text-align: right;'>3.800,52</td>
+        <td style='height: 80; width: 500'> Rolo Esticador de Papel,  COD. 22906</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> SUICA</td>
+        <td style='width: 80; text-align: center;'> SUICA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 118.833,85</td>
+        <td style='width: 80; text-align: right;'>118.833,85</td>
+        <td style='height: 80; width: 500'> GEN02801 COPPER COOLING CYLINDER - Cilindro,  em cobre,  da máquina extrusora. Utilizado na indústria de embalagens cartonadas assépticas. Material novo. 1310273</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> TCHECA, REPUBLICA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 261,89</td>
+        <td style='width: 80; text-align: right;'>261,89</td>
+        <td style='height: 80; width: 500'> ITEM 102 Cilindro pneumatico da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> TCHECA, REPUBLICA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 145,62</td>
+        <td style='width: 80; text-align: right;'>145,62</td>
+        <td style='height: 80; width: 500'> ITEM 251 Cilindro pneumatico da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 15.261,03</td>
+        <td style='width: 80; text-align: right;'>15.261,03</td>
+        <td style='height: 80; width: 500'> ITEM 190 - Cilindro,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 15.208,18</td>
+        <td style='width: 80; text-align: right;'>15.208,18</td>
+        <td style='height: 80; width: 500'> ITEM 774 - Cilindro,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 7.442,03</td>
+        <td style='width: 80; text-align: right;'>7.442,03</td>
+        <td style='height: 80; width: 500'> ITEM 122 - Cilindro,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 6.531,88</td>
+        <td style='width: 80; text-align: right;'>6.531,88</td>
+        <td style='height: 80; width: 500'> ITEM 940 - Cilindro,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 5.813,17</td>
+        <td style='width: 80; text-align: right;'>5.813,17</td>
+        <td style='height: 80; width: 500'> ITEM 437 - Cilindro,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 5.604,13</td>
+        <td style='width: 80; text-align: right;'>5.604,13</td>
+        <td style='height: 80; width: 500'> ITEM 138 - Cilindro,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 5.025,16</td>
+        <td style='width: 80; text-align: right;'>5.025,16</td>
+        <td style='height: 80; width: 500'> ITEM 124 - Cilindro,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> ABR 2014</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> ALEMANHA</td>
+        <td style='width: 80; text-align: center;'> 84209100</td>
+        <td style='width: 150; text-align: left;'> CILINDROS P/CALAND/LAMIN.EXC.P</td>
+        <td style='width: 50; text-align: right;'> 1</td>
+        <td style='width: 80; text-align: center;'> Peça</td>        
+        <td style='width: 80; text-align: right;'> 4.979,36</td>
+        <td style='width: 80; text-align: right;'>4.979,36</td>
+        <td style='height: 80; width: 500'> ITEM 772 - Cilindro,  em aço,  da máquina extrusora. Utilizado na industria de embalagens cartonadas assépticas. Material novo.</td>
+        </tr><tr> <td  colspan='10' style='text-align: center';> Obs.: Dados preliminares sujeitos a modificaçoes </td></tr><tr> <td  colspan='10' style='text-align: center';>Fonte: Informação Oficial </td></tr><tr> <td  colspan='10' style='text-align: center';>* Corresponde ao Total da Declaração </td></tr><tr> <td  colspan='10' style='text-align: center';>www.infoalert.com.br </td></tr><tr> <td  colspan='10' style='text-align: center';>Email: comercial@infoalert.com.br </td></tr></table>

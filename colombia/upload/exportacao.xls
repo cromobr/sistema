@@ -1,0 +1,1366 @@
+
+    <table border='0'>
+        <tr >
+            <td style='background-color: darkblue; color: white;' colspan='6'> </td>            
+        </tr>
+        <tr >
+            <td style='background-color: darkblue; color: white;' colspan='6'> 
+                COLOMBIA IMPORTA��O DETALHADA / DESCRI��O DE MARCAS
+            </td>            
+        </tr>
+        <tr >
+            <td colspan='6'> Empresa: Intercamp Sistemas</td>
+        </tr>
+        <tr >
+            <td colspan='6'> Usu�rio: Bruno Cromo</td>
+        </tr>
+     </table>
+     <BR />        
+     
+        <table align=center cellpadding=3>
+            <tr>    
+                <td colspan='6' style='background-color: darkblue; color: white;'> Dados da Consulta</td>
+            </tr>
+            <tr>
+                <td colspan='3'> Descricao / Marca / Modelo</td>
+                <td colspan='3' style='text-align: left;'></td>
+            </tr>
+            <tr>
+                <td colspan='3'> NCM </td>
+                <td colspan='3' style='text-align: left;'>  </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Data Inicial </td>
+                <td colspan='3' style='text-align: left;'>
+                    01-01-2010
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Data Final </td>
+                <td colspan='3' style='text-align: left;'> 
+                    31-01-2015
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Valor Unit�rio </td>
+                <td colspan='3' style='text-align: left;'>Inicial: 0
+                Final: 0</td>
+            </tr>
+        </table>
+        <br />
+    <table border='1'>
+        <tr style='background-color: darkblue; color: white;'>
+
+        <td> Data</td>
+        <td> Origem</td>
+        <td> Compra</td>
+        <td> NCM</td>
+        <td> Importador</td>
+        <td> Marca</td>
+        <td> Exportador</td>
+        <td> Qtde</td>
+        <td> Unidade</td>
+        <td> V. Unit�rio </td>
+        <td> V. Total</td>
+        </tr>
+        
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-09</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> DITECNO S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO 14617 ,PEDIDO  ,FORMATO 1 DE 1; FACTURA(S)...AO</td>
+        <td style='width: 150; text-align: left;'> SHANDONG NATIVE PRODUCE INTL.TRADING CO,LTD.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 3.570,00</td>
+        <td style='width: 80; text-align: right;'> 3.570,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-11</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUSTRIAS CRUZ HERMANOS S. A.</td>
+        <td style='width: 150; text-align: left;'> TS: 1. DO:14-1030 I06-ADU0430; IMPORTACIÓN: 28074</td>
+        <td style='width: 150; text-align: left;'> TRUMPF WERKZEUGMASCHIEN GMBH   CO KG</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 446.943,58</td>
+        <td style='width: 80; text-align: right;'> 446.943,58</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-15</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> CONCEPTO VISUAL LTDA</td>
+        <td style='width: 150; text-align: left;'> A218-14.NO REQUIERE REGISTRO DE IMPORTACION SEGUN </td>
+        <td style='width: 150; text-align: left;'> WINCOLOURS CO LIMITED</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 3.190,00</td>
+        <td style='width: 80; text-align: right;'> 3.190,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-15</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> OVIEDO RUIZ LUIS HUMBERTO</td>
+        <td style='width: 150; text-align: left;'> DO 14010584 DECLARACION(1-1) NOS ACOGEMOS AL DECRE</td>
+        <td style='width: 150; text-align: left;'> JINAN JINQIANG LASER CNC EQUIPMENT CO., LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 5.330,00</td>
+        <td style='width: 80; text-align: right;'> 5.330,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-17</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SALAZAR MORENO JESUS YEZID</td>
+        <td style='width: 150; text-align: left;'> DA. DO 14091458, FORMATO 1 DE 1; FACTURA: NCIDY140</td>
+        <td style='width: 150; text-align: left;'> JINAN NICE-CUT MECHANICAL EQUIPMENT CO., LTD.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 5.578,00</td>
+        <td style='width: 80; text-align: right;'> 5.578,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-17</td>
+        <td style='width: 80; text-align: center;'> Turquía</td>
+        <td style='width: 80; text-align: center;'> Turquía</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMOCOM S.A</td>
+        <td style='width: 150; text-align: left;'> DO 4400347 PEDIDO TRAMITE: 76633/74936 DECLARACION</td>
+        <td style='width: 150; text-align: left;'> ERMAKSAN MAK SAN.VE TIC. A.S</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 282.919,11</td>
+        <td style='width: 80; text-align: right;'> 282.919,11</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-17</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA MACROLASER HR S.A.S</td>
+        <td style='width: 150; text-align: left;'> / DIM 1/1 D.O. 14350500/ PRODUCTO. LASER ENGRAVING</td>
+        <td style='width: 150; text-align: left;'> JINAN JINDIAO TECHNOLOGY CO LTD</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 3.781,50</td>
+        <td style='width: 80; text-align: right;'> 7.563,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-18</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA IMATEXCO S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO 22020080234-001 DECLARACION(1-3) PRODUCTO: MAQU</td>
+        <td style='width: 150; text-align: left;'> HK GREAT YEAR LASER LIMITED</td>
+        <td style='width: 50; text-align: center;'> 6</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 6.383,17</td>
+        <td style='width: 80; text-align: right;'> 38.299,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-19</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> AMEZQUITA RIVERA ORLANDO ALEXANDER</td>
+        <td style='width: 150; text-align: left;'> DO BN4IS009 DECLARACION 1 DE 1;FACTURA(S):XYZ14061</td>
+        <td style='width: 150; text-align: left;'> JINAN XYZ MACHINERY LLC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 7.399,00</td>
+        <td style='width: 80; text-align: right;'> 7.399,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-22</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> FH CARGO LTDA</td>
+        <td style='width: 150; text-align: left;'> MERCANCIA NUEVA. NOS ACOGEMOS AL DECRETO 0925 DEL </td>
+        <td style='width: 150; text-align: left;'> DONSINA INTERNATIONAL LIMITED</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 250,00</td>
+        <td style='width: 80; text-align: right;'> 500,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-02</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> LASER DEPOT C I LIMITADA</td>
+        <td style='width: 150; text-align: left;'> WASC / DIM 1/1 D.O. BOG2791/ NOS ACOGEMOS AL DECRE</td>
+        <td style='width: 150; text-align: left;'> EPILOG CORPORATION</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 6.300,00</td>
+        <td style='width: 80; text-align: right;'> 6.300,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-06</td>
+        <td style='width: 80; text-align: center;'> Austria</td>
+        <td style='width: 80; text-align: center;'> Austria</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TROTEC S.A.S</td>
+        <td style='width: 150; text-align: left;'> DO. 3015; DECLARACION 2 /6; FACTURA(S):310057432,3</td>
+        <td style='width: 150; text-align: left;'> TROTEC PRODUKTIONS-UND VERTRIEBS GMBH</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 21.600,00</td>
+        <td style='width: 80; text-align: right;'> 43.200,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-06</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> VELEZ PALACIO S.A.</td>
+        <td style='width: 150; text-align: left;'> DO IMDE1400729 DECLARACION(1-1) PRODUCTO: MAQUINA </td>
+        <td style='width: 150; text-align: left;'> ZHENGZHOU AUDLEY DIGITAL CONTROL EQUIPMENTS CO LTD</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 1.390,00</td>
+        <td style='width: 80; text-align: right;'> 2.780,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-08</td>
+        <td style='width: 80; text-align: center;'> Reino Unido</td>
+        <td style='width: 80; text-align: center;'> Reino Unido</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> BANCO POPULAR S. A.</td>
+        <td style='width: 150; text-align: left;'> DO IBQ83371. DECLARACION 1 DE 1, NOS ACOGEMOS AL D</td>
+        <td style='width: 150; text-align: left;'> RETAINAGROUP LIMITED</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 59.609,58</td>
+        <td style='width: 80; text-align: right;'> 119.219,15</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-08</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TEXMAC INT S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO I-262-BUN/2014, PEDIDO GBOS LASER DECLARACION 1</td>
+        <td style='width: 150; text-align: left;'> GBOS LASER TECHNOLOGY COMPANY LIMITED</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 4.328,25</td>
+        <td style='width: 80; text-align: right;'> 4.328,25</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-08</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ZONA DE CORTE S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO 0388-14BUN; ; DECLARACION 1 DE 2; FACTURA(S) CN</td>
+        <td style='width: 150; text-align: left;'> LIAOCHENG RAY FINE TECHNOLOGY CO., LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 4.300,00</td>
+        <td style='width: 80; text-align: right;'> 4.300,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-09</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> LA RIVIERA S . A . S .</td>
+        <td style='width: 150; text-align: left;'> 31410501 FACTURA 1366980 2014/9/11  MERCANCIA NO R</td>
+        <td style='width: 150; text-align: left;'> GRAVOTECH INC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 8.953,87</td>
+        <td style='width: 80; text-align: right;'> 8.953,87</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-09</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> DEGITEX S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DIM 4/6 D.O. 1420025/ . (1 PCS)PRODUCTO: MAQUINA C</td>
+        <td style='width: 150; text-align: left;'> EXPO INC INTERNATIONAL CO., LTDA</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 1.800,00</td>
+        <td style='width: 80; text-align: right;'> 1.800,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-10</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMPANIA   COLOMBIANA    DE   TABACO   S.A.</td>
+        <td style='width: 150; text-align: left;'> DO 052014047076 ,PEDIDO 4501642741/4501660103/4501</td>
+        <td style='width: 150; text-align: left;'> HAUNI MASCHINENBAU AG</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 384.451,06</td>
+        <td style='width: 80; text-align: right;'> 384.451,06</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-15</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TINTAS & PLOTTER  S.A.S.</td>
+        <td style='width: 150; text-align: left;'> D.O. BUN1410016 HOJA 1/1. MAQUINAS HERRAMIENTA QUE</td>
+        <td style='width: 150; text-align: left;'> JINAN JINQIANG LASER CNC EQUIPMENT CO.,LTD</td>
+        <td style='width: 50; text-align: center;'> 4</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.717,50</td>
+        <td style='width: 80; text-align: right;'> 10.870,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-16</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TRAFOCOL S A S</td>
+        <td style='width: 150; text-align: left;'> / DIM 1/2 D.O. 1-3316/ NOS ACOGEMOS AL DECRETO 925</td>
+        <td style='width: 150; text-align: left;'> JINAN JINSHENGXING MACHINERY MANUFACTURE CO.,LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 9.493,00</td>
+        <td style='width: 80; text-align: right;'> 9.493,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-17</td>
+        <td style='width: 80; text-align: center;'> Austria</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TROTEC S.A.S</td>
+        <td style='width: 150; text-align: left;'> DO. 10650; DECLARACION 1 /1;FACTURA(S):310057374,3</td>
+        <td style='width: 150; text-align: left;'> TROTEC PRODUKTIONS-UND VERTRIEBS GMBH</td>
+        <td style='width: 50; text-align: center;'> 5</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 7.200,00</td>
+        <td style='width: 80; text-align: right;'> 36.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-22</td>
+        <td style='width: 80; text-align: center;'> Turquía</td>
+        <td style='width: 80; text-align: center;'> Turquía</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> WASH S.A.S</td>
+        <td style='width: 150; text-align: left;'> DO CTGI0128720 DECLARACION(1-1) ESTOS PRODUCTOS NO</td>
+        <td style='width: 150; text-align: left;'> PROTRIM</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 71.213,90</td>
+        <td style='width: 80; text-align: right;'> 142.427,80</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-22</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> BORDA LASSER S.A.S</td>
+        <td style='width: 150; text-align: left;'> DO M140848007 ,PEDIDO TLISZX1408046 DECLARACION 1 </td>
+        <td style='width: 150; text-align: left;'> GUANGDONG FOSHAN PACKAGING IMP. AND EXP. CO.,LTD.</td>
+        <td style='width: 50; text-align: center;'> 24</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 4.159,00</td>
+        <td style='width: 80; text-align: right;'> 99.816,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-23</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA MACROLASER HR S.A.S</td>
+        <td style='width: 150; text-align: left;'> / DIM 1/2 D.O. 14350658/ PRODUCTO. LASER ENGRAVING</td>
+        <td style='width: 150; text-align: left;'> JINAN JINDIAO TECHNOLOGY CO LTD</td>
+        <td style='width: 50; text-align: center;'> 5</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 3.802,40</td>
+        <td style='width: 80; text-align: right;'> 19.012,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-24</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TOVAR DIAZ FABIAN</td>
+        <td style='width: 150; text-align: left;'> MERCANCIA NUEVA PRODUCTO: MAQUINA LASER PARA GRABA</td>
+        <td style='width: 150; text-align: left;'> JINAN RUIJIE MECHANICAL EQUIPMENT CO LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 3.900,00</td>
+        <td style='width: 80; text-align: right;'> 3.900,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-29</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> HENAO RODRIGUEZ HENRY</td>
+        <td style='width: 150; text-align: left;'> DO BUN14229 ,PEDIDO PAPELFOIL/FILTRO/TEFLON/MAQUIN</td>
+        <td style='width: 150; text-align: left;'> CIMA (CHINA)CO., LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 5.120,00</td>
+        <td style='width: 80; text-align: right;'> 5.120,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-29</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COLOMBIANA DE EXPORTACIONES  SAS</td>
+        <td style='width: 150; text-align: left;'> DO 14937 ,PEDIDO  ,FORMATO 1 DE 1; FACTURA(S)...CN</td>
+        <td style='width: 150; text-align: left;'> SUZHOU YIQIANG PHOTOELECTRICITY TECHNOLOGY CO LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 8.788,00</td>
+        <td style='width: 80; text-align: right;'> 8.788,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-30</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> LASER DEPOT C I LIMITADA</td>
+        <td style='width: 150; text-align: left;'> WASC / DIM 1/1 D.O. BOG2897/ NOS ACOGEMOS AL DECRE</td>
+        <td style='width: 150; text-align: left;'> EPILOG CORPORATION</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 6.422,48</td>
+        <td style='width: 80; text-align: right;'> 6.422,48</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-30</td>
+        <td style='width: 80; text-align: center;'> Hong Kong</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ATIKA DECORACION S.A.S</td>
+        <td style='width: 150; text-align: left;'> DO INT149-14 ,PEDIDO  ,FORMATO 5 DE 8; FACTURA(S).</td>
+        <td style='width: 150; text-align: left;'> R&G COMPANY LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 750,00</td>
+        <td style='width: 80; text-align: right;'> 750,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-04</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> LABORATORIO CASA OPTICA LTDA</td>
+        <td style='width: 150; text-align: left;'> / DIM 1/4 D.O. 22730/ MÁQUINAS HERRAMIENTA QUE TR</td>
+        <td style='width: 150; text-align: left;'> SCHNEIDER GMBH & CO.KG</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 25.136,28</td>
+        <td style='width: 80; text-align: right;'> 25.136,28</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-04</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> OUTSOURCING INTELLIGENT LTDA</td>
+        <td style='width: 150; text-align: left;'> 1 DE 1 DO BV15827-0 ; // 1 SET; RODUCTO: EQUIPO DE</td>
+        <td style='width: 150; text-align: left;'> JINAN JINDIAO TECHNOLOGY CO. LTD.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 9.890,00</td>
+        <td style='width: 80; text-align: right;'> 9.890,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-05</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> CARTON DE COLOMBIA S.A.</td>
+        <td style='width: 150; text-align: left;'> DO S35141612, PEDIDO 45037057, FORMATO 6 DE 16; FA</td>
+        <td style='width: 150; text-align: left;'> SMURFIT KAPPA PACKAGING, LLC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 316.904,08</td>
+        <td style='width: 80; text-align: right;'> 316.904,08</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-07</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 80; text-align: center;'> Corea del Sur</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ELECTRICOS INTERNACIONAL LIMITADA</td>
+        <td style='width: 150; text-align: left;'> / DIM 1/1 D.O. 03-10-0022-14/ NOS ACOGEMOS AL DECR</td>
+        <td style='width: 150; text-align: left;'> K2 LASER SYSTEM, INC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 23.280,00</td>
+        <td style='width: 80; text-align: right;'> 23.280,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-08</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ASISCOMIN SAS</td>
+        <td style='width: 150; text-align: left;'> DO BN4IN001 DECLARACION 1 DE 1;FACTURA(S):XJ201407</td>
+        <td style='width: 150; text-align: left;'> JINAN XIANOJIA CNC MACHINERY EQUIPMENT CO.LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 4.613,00</td>
+        <td style='width: 80; text-align: right;'> 4.613,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-10</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> LASER DEPOT C I LIMITADA</td>
+        <td style='width: 150; text-align: left;'> CCSS / DIM 1/1 D.O. BOG2935/ NOS ACOGEMOS AL DECRE</td>
+        <td style='width: 150; text-align: left;'> EPILOG CORPORATION</td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 6.300,00</td>
+        <td style='width: 80; text-align: right;'> 18.900,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-11</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> LEASING BANCOLOMBIA S.A. COMPANIA DE FINANCIAMIENTO</td>
+        <td style='width: 150; text-align: left;'> DO 166625-50 PEDIDO DECLARACION 1 DE 2;FACTURA(S):</td>
+        <td style='width: 150; text-align: left;'> ALLIANCES</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 18.033,00</td>
+        <td style='width: 80; text-align: right;'> 18.033,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-11</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TIENDA PROMO S. A. S.</td>
+        <td style='width: 150; text-align: left;'> DIM 1/1 D.O.209-14.MERCANCIA NUEVA-PRODUCTO.MAQUIN</td>
+        <td style='width: 150; text-align: left;'> ARGUS WUHAN SUNIC PHOTOELECTRICITY EQUIPMENT MANUFAC TURE C</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 1.900,00</td>
+        <td style='width: 80; text-align: right;'> 1.900,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-12</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOPORTEC PARA LA INDUSTRIA SAS</td>
+        <td style='width: 150; text-align: left;'> D.O. BUN 478-14 //PRODUCTO: MAQUINA LASER ENGRAVIN</td>
+        <td style='width: 150; text-align: left;'> BEIJING LASERWORLD INTERNATIONAL IMP&EXP CO., LTD</td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.958,67</td>
+        <td style='width: 80; text-align: right;'> 8.876,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-13</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> CODIFICACION & ETIQUETADO S.A.</td>
+        <td style='width: 150; text-align: left;'> MBOG6030 - D.O. RA720/14 - PEDIDO. 518.14 - MERCAN</td>
+        <td style='width: 150; text-align: left;'> MARKEM IMAJE CORP</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 16.329,20</td>
+        <td style='width: 80; text-align: right;'> 16.329,20</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-13</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> PLAYCEL LTDA</td>
+        <td style='width: 150; text-align: left;'> DO 22010100074-001 DECLARACION(1-2) NO REQUIERE RE</td>
+        <td style='width: 150; text-align: left;'> WUHAN HASARY EQUIPMENT CO., LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 5.750,00</td>
+        <td style='width: 80; text-align: right;'> 5.750,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-15</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SUPERSIGNS COLOMBIA S.A.S.</td>
+        <td style='width: 150; text-align: left;'> A278-14.NO REQUIRE REGISTRO DE IMPORTACION SEGUN D</td>
+        <td style='width: 150; text-align: left;'> REDSAIL  TECH CO LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 3.140,00</td>
+        <td style='width: 80; text-align: right;'> 3.140,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-18</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> LASER DEPOT C I LIMITADA</td>
+        <td style='width: 150; text-align: left;'> WASC / DIM 1/1 D.O. BOG2968/ NOS ACOGEMOS AL DECRE</td>
+        <td style='width: 150; text-align: left;'> EPILOG CORPORATION</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 31.870,00</td>
+        <td style='width: 80; text-align: right;'> 31.870,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-19</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SEC SEL S.A.S</td>
+        <td style='width: 150; text-align: left;'> DO M0121060MDE DECLARACION 2 DE 2 // FACTURA 47330</td>
+        <td style='width: 150; text-align: left;'> TELESIS TECHNOLOGIES, INC.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 17.633,00</td>
+        <td style='width: 80; text-align: right;'> 17.633,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-21</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA INTERNACIONAL IDEA INNOVA S.A S</td>
+        <td style='width: 150; text-align: left;'> DO BU14I4847 PEDIDO TRAMITE: AMS-MAQ.CORT.LASER  D</td>
+        <td style='width: 150; text-align: left;'> AMS CORPORATION LIMITED</td>
+        <td style='width: 50; text-align: center;'> 6</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.883,33</td>
+        <td style='width: 80; text-align: right;'> 17.300,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-21</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ACRILICOS ALUMINIOS Y POLICARBONATOS S.A.S</td>
+        <td style='width: 150; text-align: left;'> DO 22010110034-001 DECLARACION(1-1) NO REQUIERE RE</td>
+        <td style='width: 150; text-align: left;'> WUHAN SUNIC PHOTOELECTRICITY EQUIPMENT MANUFACTURE CO.,LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.500,00</td>
+        <td style='width: 80; text-align: right;'> 2.500,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-21</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MAPER S.A.</td>
+        <td style='width: 150; text-align: left;'> DO G514113632 ,PEDIDO LAF00682 ,FORMATO 2 DE 5; FA</td>
+        <td style='width: 150; text-align: left;'> VIDEOJET TECHNOLOGIES INC</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 6.924,62</td>
+        <td style='width: 80; text-align: right;'> 13.849,23</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-22</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ISMAEL GUETE ASESORIAS Y CONSTRUCCIONES SAS</td>
+        <td style='width: 150; text-align: left;'> DO 1-0989-14 DECLARACION (2-2) MERCANCIA NUEVA. PR</td>
+        <td style='width: 150; text-align: left;'> WUHAN CHANCAY MACHINERY & ELECTRONICS CO LTDA</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 3.700,00</td>
+        <td style='width: 80; text-align: right;'> 3.700,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-26</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> HYSA LTDA</td>
+        <td style='width: 150; text-align: left;'> DO: 13CLOBU1114165, DECLARACIÓN: 1/1; NOS ACOGEMO</td>
+        <td style='width: 150; text-align: left;'> GLORY MACHINERY GROUP CO., LIMITED</td>
+        <td style='width: 50; text-align: center;'> 9</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 1.088,89</td>
+        <td style='width: 80; text-align: right;'> 9.800,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-28</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> DISENOS Y CALIDAD S.A.S.</td>
+        <td style='width: 150; text-align: left;'> / DIM 7/9 D.O. VBUN716-14/ IMPORTACION EXCENTA DE </td>
+        <td style='width: 150; text-align: left;'> GUANGZHOU RUIBI IMPORT & EXPORT CO., LTD.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 200,00</td>
+        <td style='width: 80; text-align: right;'> 200,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-04</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84562000</td>
+        <td style='width: 380; height: 50; text-align: left;'> FRANCO ARENAS FERNANDO</td>
+        <td style='width: 150; text-align: left;'> D.O 904: 1/1 - MAQUINAS QUE OPEREN POR ULTRASONIDO</td>
+        <td style='width: 150; text-align: left;'> PAN AMERICAN INDUSTRIES, INC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 55.720,00</td>
+        <td style='width: 80; text-align: right;'> 55.720,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-06</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84562000</td>
+        <td style='width: 380; height: 50; text-align: left;'> FMA TRADING COLOMBIA S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DIM 3/6 D.O. 14-0344/ NOS ACOGEMOS AL DECRETO 0925</td>
+        <td style='width: 150; text-align: left;'> FMA TRADING LLC.</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 3.800,00</td>
+        <td style='width: 80; text-align: right;'> 7.600,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-20</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84562000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA MERCY  S.A.S</td>
+        <td style='width: 150; text-align: left;'> DO 0406-14BUN; ; DECLARACION 5 DE 14; FACTURA(S) 2</td>
+        <td style='width: 150; text-align: left;'> AS INTERNATIONAL COMMERCE LTD</td>
+        <td style='width: 50; text-align: center;'> 20</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 10,10</td>
+        <td style='width: 80; text-align: right;'> 202,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-23</td>
+        <td style='width: 80; text-align: center;'> Hong Kong</td>
+        <td style='width: 80; text-align: center;'> Hong Kong</td>
+        <td style='width: 70; text-align: center;'> 84562000</td>
+        <td style='width: 380; height: 50; text-align: left;'> BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.</td>
+        <td style='width: 150; text-align: left;'> DO 20010091774-001 DECLARACION(1-1) MERCANCIA NUEV</td>
+        <td style='width: 150; text-align: left;'> H&Y INTERNATIONAL CO., LIMITED</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 12.345,00</td>
+        <td style='width: 80; text-align: right;'> 24.690,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-27</td>
+        <td style='width: 80; text-align: center;'> Japón</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84562000</td>
+        <td style='width: 380; height: 50; text-align: left;'> RIDUCO S.A.</td>
+        <td style='width: 150; text-align: left;'> TS: 1. DO: 421400; IMPORTACIÓN: 421400; DECLARACI</td>
+        <td style='width: 150; text-align: left;'> HEMEVA INC.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 5.914,04</td>
+        <td style='width: 80; text-align: right;'> 5.914,04</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-13</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84562000</td>
+        <td style='width: 380; height: 50; text-align: left;'> UNIVERSAL  ACCESORIOS  IMPORTACIONES   SAS</td>
+        <td style='width: 150; text-align: left;'> DO 0436-14BUN; ; DECLARACION 3 DE 11; FACTURA(S) 2</td>
+        <td style='width: 150; text-align: left;'> TENG RUIDA INTERNATIONAL TRADING CO, LIMITED</td>
+        <td style='width: 50; text-align: center;'> 208</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 6,50</td>
+        <td style='width: 80; text-align: right;'> 1.352,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-11</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84563000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMOCOM S.A</td>
+        <td style='width: 150; text-align: left;'> DO 4200318 PEDIDO TRAMITE: 77178 DECLARACION(1-1) </td>
+        <td style='width: 150; text-align: left;'> AGIE CHARMILLES</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 84.183,60</td>
+        <td style='width: 80; text-align: right;'> 84.183,60</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-04</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84563000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMOCOM S.A</td>
+        <td style='width: 150; text-align: left;'> DO 4200365 PEDIDO TRAMITE: 77968 DECLARACION(1-1) </td>
+        <td style='width: 150; text-align: left;'> AGIE CHARMILLES</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 101.194,00</td>
+        <td style='width: 80; text-align: right;'> 101.194,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-21</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Canadá</td>
+        <td style='width: 70; text-align: center;'> 84563000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y EXPORTADORA DE EQUIPOS METALMECANICOS COLCAN E</td>
+        <td style='width: 150; text-align: left;'> DO CTG1010 ,PEDIDO  ,FORMATO 1 DE 2; FACTURA(S)...</td>
+        <td style='width: 150; text-align: left;'> MACTOOLS EXPORTS</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 1.200,00</td>
+        <td style='width: 80; text-align: right;'> 1.200,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-28</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84563000</td>
+        <td style='width: 380; height: 50; text-align: left;'> PLASTICOS G1 S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO 22020110334-001 DECLARACION(2-4) PRODUCTO: ELEC</td>
+        <td style='width: 150; text-align: left;'> CREATOR INDUSTRY (SUZHOU) CO LTDA</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 15.000,00</td>
+        <td style='width: 80; text-align: right;'> 15.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-05</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA INDUSTRIAL COLOMBIANA S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO N14207 ,PEDIDO N14207 ,FORMATO 1 DE 1; FACTURA(</td>
+        <td style='width: 150; text-align: left;'> INAWELD INC.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 8.900,00</td>
+        <td style='width: 80; text-align: right;'> 8.900,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-08</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMPANIA DE REPRESENTACIONES Y EXPORTACIONES S.A.S COREXPO S</td>
+        <td style='width: 150; text-align: left;'> DO BUN145626 PEDIDO DECLARACION 1 DE 1; // FACTURA</td>
+        <td style='width: 150; text-align: left;'> MEGA MACHINE CO., LTD.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 17.718,00</td>
+        <td style='width: 80; text-align: right;'> 17.718,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-10</td>
+        <td style='width: 80; text-align: center;'> México</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> OXIGENOS DE COLOMBIA LTDA</td>
+        <td style='width: 150; text-align: left;'> 4 DE 7 DO: 1435595 // NUMERO DE IDENTIFICACION DE </td>
+        <td style='width: 150; text-align: left;'> VICTOR TECHNOLOGIES INTERNATIONAL INC</td>
+        <td style='width: 50; text-align: center;'> 8</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.228,87</td>
+        <td style='width: 80; text-align: right;'> 17.830,98</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-25</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDARCO S.  A.   S.</td>
+        <td style='width: 150; text-align: left;'> DO. BU-2748; DECLARACION 1 /1;FACTURA(S):AA-103080</td>
+        <td style='width: 150; text-align: left;'> ASIA MACHINE GROUP CO.,LTD.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 42.000,00</td>
+        <td style='width: 80; text-align: right;'> 42.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-26</td>
+        <td style='width: 80; text-align: center;'> México</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA INDUSTRIAL COLOMBIANA S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO N14230 ,PEDIDO N14230 ,FORMATO 10 DE 14; FACTUR</td>
+        <td style='width: 150; text-align: left;'> VICTOR TECHNOLOGIES INTERNATIONAL,INC.</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.943,32</td>
+        <td style='width: 80; text-align: right;'> 5.886,64</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-30</td>
+        <td style='width: 80; text-align: center;'> México</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDADURAS INDUSTRIALES   S . A . S .</td>
+        <td style='width: 150; text-align: left;'> DO M0118862MDE PEDIDO SMLU 3808030A PRODUCTO MAQUI</td>
+        <td style='width: 150; text-align: left;'> VICTOR TECHNOLOGIES INTERNATIONAL, INC</td>
+        <td style='width: 50; text-align: center;'> 5</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 1.850,04</td>
+        <td style='width: 80; text-align: right;'> 9.250,20</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-02</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUSTRIAS MUNDIAL SAS</td>
+        <td style='width: 150; text-align: left;'> 31410073 FACTURA 6129A 2014/7/23  REIMPOTACION DE </td>
+        <td style='width: 150; text-align: left;'> HAI TECH LASER, INC.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 950,00</td>
+        <td style='width: 80; text-align: right;'> 950,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-03</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDADURAS WEST ARCO S A S</td>
+        <td style='width: 150; text-align: left;'> 1 DE 1 DO: 1439830 // NUMERO DE IDENTIFICACION DE </td>
+        <td style='width: 150; text-align: left;'> ESAB WELDING & CUTTING PRODUCTS</td>
+        <td style='width: 50; text-align: center;'> 6</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 1.415,80</td>
+        <td style='width: 80; text-align: right;'> 8.494,80</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-03</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDADURAS WEST ARCO S A S</td>
+        <td style='width: 150; text-align: left;'> 1 DE 1 DO: 1439516 // NUMERO DE IDENTIFICACION DE </td>
+        <td style='width: 150; text-align: left;'> ESAB WELDING & CUTTING PRODUCTS</td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 7.538,09</td>
+        <td style='width: 80; text-align: right;'> 22.614,28</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-03</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> CODINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> REF:083270 PRODUCTO,MAQUINA PARA EL CORTE DE METAL</td>
+        <td style='width: 150; text-align: left;'> HYPERTHERM</td>
+        <td style='width: 50; text-align: center;'> 14</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.695,72</td>
+        <td style='width: 80; text-align: right;'> 37.740,08</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-06</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDARCO S.  A.   S.</td>
+        <td style='width: 150; text-align: left;'> DO. BU-2770; DECLARACION 1 /1;FACTURA(S):ARCCECO20</td>
+        <td style='width: 150; text-align: left;'> ARCBRO TM</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 6.700,00</td>
+        <td style='width: 80; text-align: right;'> 13.400,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-09</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDADURAS INDUSTRIALES   S . A . S .</td>
+        <td style='width: 150; text-align: left;'> DO M0118255MDE PEDIDO 578586737J DECLARACION 1 DE </td>
+        <td style='width: 150; text-align: left;'> TIANJIN R-SWITCH IMPORT & EXPORT CO LTD</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 3.800,00</td>
+        <td style='width: 80; text-align: right;'> 7.600,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-10</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ENCIL INGENIERIA S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO 052014047028 ,PEDIDO  ,FORMATO 1 DE 1; FACTURA(</td>
+        <td style='width: 150; text-align: left;'> FARLEY LASERCNC INTERNATIONAL CO., LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.500,00</td>
+        <td style='width: 80; text-align: right;'> 2.500,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-10</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDARCO S.  A.   S.</td>
+        <td style='width: 150; text-align: left;'> DO. CL-1346; DECLARACION 11 /19;FACTURA(S):2857437</td>
+        <td style='width: 150; text-align: left;'> HYPERTHERM INC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 19.544,17</td>
+        <td style='width: 80; text-align: right;'> 19.544,17</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-10</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDARCO S.  A.   S.</td>
+        <td style='width: 150; text-align: left;'> DO. CL-1346; DECLARACION 8 /19;FACTURA(S):2855703;</td>
+        <td style='width: 150; text-align: left;'> HYPERTHERM INC</td>
+        <td style='width: 50; text-align: center;'> 4</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.559,12</td>
+        <td style='width: 80; text-align: right;'> 10.236,48</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-22</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ACERTA LIMITADA</td>
+        <td style='width: 150; text-align: left;'> DO 1I144078 DECLARACION(1-2) PEDIDO. 37 076 DHL GL</td>
+        <td style='width: 150; text-align: left;'> HYPERTHERM INC.</td>
+        <td style='width: 50; text-align: center;'> 17</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.247,28</td>
+        <td style='width: 80; text-align: right;'> 38.203,74</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-22</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDARCO S.  A.   S.</td>
+        <td style='width: 150; text-align: left;'> DO. CL-1358; DECLARACION 4 /16;FACTURA(S):2863753;</td>
+        <td style='width: 150; text-align: left;'> HYPERTHERM INC</td>
+        <td style='width: 50; text-align: center;'> 13</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.626,49</td>
+        <td style='width: 80; text-align: right;'> 34.144,36</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-27</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ESCALERAS DE COLOMBIA DEL CARIBE LTDA</td>
+        <td style='width: 150; text-align: left;'> LICENCIA NO. LIC-21446861-25092014, PRODUCTO: EQUI</td>
+        <td style='width: 150; text-align: left;'> ESCALERAS DE PANAMA S.A.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 800,00</td>
+        <td style='width: 80; text-align: right;'> 800,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-28</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDADURAS WEST ARCO S A S</td>
+        <td style='width: 150; text-align: left;'> 1 DE 1 DO: 1440553 // NUMERO DE IDENTIFICACION DE </td>
+        <td style='width: 150; text-align: left;'> ESAB EQUIPMENT AND MACHINERY MANUFACTURING (ZJG) CP., LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 51.213,00</td>
+        <td style='width: 80; text-align: right;'> 51.213,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-28</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> PEREZ SEPULVEDA JORGE EFRAIN</td>
+        <td style='width: 150; text-align: left;'> DO 2014-226BOG DECLARACION 2 DE 2;FACTURA(S):FM015</td>
+        <td style='width: 150; text-align: left;'> JINAN FEIMAI NUMERICAL CONTROL TECHNOLOGY CO., LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.674,31</td>
+        <td style='width: 80; text-align: right;'> 2.674,31</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-10-30</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLDADURAS WEST ARCO S A S</td>
+        <td style='width: 150; text-align: left;'> 1 DE 1 DO: 1440968 // NUMERO DE IDENTIFICACION DE </td>
+        <td style='width: 150; text-align: left;'> DALIAN WORLD INTERNATIONAL CO., LTD</td>
+        <td style='width: 50; text-align: center;'> 5</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 3.384,00</td>
+        <td style='width: 80; text-align: right;'> 16.920,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-06</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> EDM  TECH   SAS</td>
+        <td style='width: 150; text-align: left;'> DO 202909 DECLARACION 1 DE 1, SIN REGISTRO DE IMPO</td>
+        <td style='width: 150; text-align: left;'> ZIGONG JIATE CNC MACHINERY MANUFACTURING CO.LTD</td>
+        <td style='width: 50; text-align: center;'> 4</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 11.500,00</td>
+        <td style='width: 80; text-align: right;'> 46.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-08</td>
+        <td style='width: 80; text-align: center;'> Canadá</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> CERRO MATOSO S.A.</td>
+        <td style='width: 150; text-align: left;'> HOJA 30 DE 38 DO 0514013122 NOS ACOGEMOS A LO DISP</td>
+        <td style='width: 150; text-align: left;'> MEGTEC TURBOSONIC INC</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 4.942,25</td>
+        <td style='width: 80; text-align: right;'> 9.884,50</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-12</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> PAVA AGUDELO JUAN CARLOS</td>
+        <td style='width: 150; text-align: left;'> DO 9014110007 DECLARACION (1-1) MERCANCIA QUE NO R</td>
+        <td style='width: 150; text-align: left;'> JINAN NICE-CUT MECHANICAL EQUIPMENT CO LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 6.430,00</td>
+        <td style='width: 80; text-align: right;'> 6.430,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-21</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> CODINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> DIM.2/2. DO.BUN-156-14.CODINTER.."NOS ACOGEMOS AL </td>
+        <td style='width: 150; text-align: left;'> HYPERTHERM</td>
+        <td style='width: 50; text-align: center;'> 29</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.405,36</td>
+        <td style='width: 80; text-align: right;'> 69.755,39</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-21</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> CODINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> DIM.1/2. DO.BUN-156-14.CODINTER.."NOS ACOGEMOS AL </td>
+        <td style='width: 150; text-align: left;'> HYPERTHERM</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 11.022,81</td>
+        <td style='width: 80; text-align: right;'> 22.045,61</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-21</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ACERTA LIMITADA</td>
+        <td style='width: 150; text-align: left;'> DO 1I144627 DECLARACION(1-2) PEDIDO. 37 095 NO APL</td>
+        <td style='width: 150; text-align: left;'> HYPERTHERM INC.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 2.772,00</td>
+        <td style='width: 80; text-align: right;'> 2.772,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-24</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORES EXPORTADORES SOLMAQ S A S</td>
+        <td style='width: 150; text-align: left;'> (DO-0642-2)(2705) NO REQUIERE REGISTRO DE IMPORTAC</td>
+        <td style='width: 150; text-align: left;'> AMERICAN TRADING USA CORP</td>
+        <td style='width: 50; text-align: center;'> 20</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 182,36</td>
+        <td style='width: 80; text-align: right;'> 3.647,20</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-28</td>
+        <td style='width: 80; text-align: center;'> México</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA INDUSTRIAL COLOMBIANA S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO N14285 ,PEDIDO N14285 ,FORMATO 2 DE 8; FACTURA(</td>
+        <td style='width: 150; text-align: left;'> VICTOR TECHNOLOGIES INTERNATIONAL,INC.</td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 1.313,00</td>
+        <td style='width: 80; text-align: right;'> 3.939,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-11-29</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84569000</td>
+        <td style='width: 380; height: 50; text-align: left;'> DIAMOND OFFSHORE SERVICES COMPANY</td>
+        <td style='width: 150; text-align: left;'> DO 170140900386 ,PEDIDO  ,FORMATO 68 DE 123; FACTU</td>
+        <td style='width: 150; text-align: left;'> DIAMOND OFFSHORE COMPANY</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 168,05</td>
+        <td style='width: 80; text-align: right;'> 168,05</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-02</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMOCOM S.A</td>
+        <td style='width: 150; text-align: left;'> DO 4200309 PEDIDO TRAMITE: 75701/76324/75701 DECLA</td>
+        <td style='width: 150; text-align: left;'> LEADWELL CNC MACHINES MFG CORP</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 46.450,00</td>
+        <td style='width: 80; text-align: right;'> 92.900,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-05</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MECANIZADOS WBC COLOMBIA S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO 410804814-001 PEDIDO TRAMITE: WBC-001 DECLARACI</td>
+        <td style='width: 150; text-align: left;'> HAAS AUTOMATION INC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 65.600,00</td>
+        <td style='width: 80; text-align: right;'> 65.600,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-11</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> DISAM S A S</td>
+        <td style='width: 150; text-align: left;'> DO 8273///////. FACTURA: FOP14-115 FECHA: 2014-07-</td>
+        <td style='width: 150; text-align: left;'> YANGZHOU DEVELOPPIN IMP. AND EXP CO LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 22.600,00</td>
+        <td style='width: 80; text-align: right;'> 22.600,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-12</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> NR MAQUINAS Y HERRAMIENTAS CNC LTDA</td>
+        <td style='width: 150; text-align: left;'> DO BU14I0268 ,PEDIDO  ,FORMATO 1 DE 1; FACTURA(S).</td>
+        <td style='width: 150; text-align: left;'> JIUH-YEH PRECISION MACHINERY CO,LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 30.000,00</td>
+        <td style='width: 80; text-align: right;'> 30.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-13</td>
+        <td style='width: 80; text-align: center;'> Japón</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> LEASING BANCOLOMBIA S.A. COMPANIA DE FINANCIAMIENTO</td>
+        <td style='width: 150; text-align: left;'> DO 052014001963 ,PEDIDO IMP-163653-50 ,FORMATO 1 D</td>
+        <td style='width: 150; text-align: left;'> TOOLQUIP INC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 97.700,00</td>
+        <td style='width: 80; text-align: right;'> 97.700,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-15</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> HYF AUTOPARTES S A S</td>
+        <td style='width: 150; text-align: left;'> DIM 1/2 - D.O.083-2014-1 / NOS ACOGEMOS AL DECRETO</td>
+        <td style='width: 150; text-align: left;'> HUAIAN HAOYANG MACHINE CO.,LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 46.200,00</td>
+        <td style='width: 80; text-align: right;'> 46.200,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-17</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MIKRA CAD CAM CAE LTDA</td>
+        <td style='width: 150; text-align: left;'> DO 2014-685 DECLARACION(1-1) NOS ACOGEMOS AL DECRE</td>
+        <td style='width: 150; text-align: left;'> FAIR FRIEND ENT.CO.,LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 49.590,00</td>
+        <td style='width: 80; text-align: right;'> 49.590,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-20</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUSTRIA METALMECANICA SANTANA SAS</td>
+        <td style='width: 150; text-align: left;'> DO 6845 CENTROS DE MECANIZADO, MÁQUINAS DE PUESTO</td>
+        <td style='width: 150; text-align: left;'> HAAS AUTOMATION INC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 64.007,00</td>
+        <td style='width: 80; text-align: right;'> 64.007,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-22</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> KRUMTAP S.A.S.</td>
+        <td style='width: 150; text-align: left;'> DO IB140807 PEDIDO PEDIDO SHANDONG WEIDA DECLARACI</td>
+        <td style='width: 150; text-align: left;'> SHANDONG WEIDA HEAVY INDUSTRIES CO. LTD</td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 20.046,67</td>
+        <td style='width: 80; text-align: right;'> 60.140,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-09-22</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84571000</td>
+        <td style='width: 380; height: 50; text-align: left;'> NR MAQUINAS Y HERRAMIENTAS CNC LTDA</td>
+        <td style='width: 150; text-align: left;'> DO BU14I0297 ,PEDIDO  ,FORMATO 1 DE 1; FACTURA(S).</td>
+        <td style='width: 150; text-align: left;'> JIUH-YEH PRECISION MACHINERY CO,LTD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades o artículos</td>        
+        <td style='width: 80; text-align: right;'> 20.000,00</td>
+        <td style='width: 80; text-align: right;'> 20.000,00</td>   
+        </tr><tr> <td  colspan='10' style='text-align: center';> Obs.: Dados preliminares sujeitos a modifica�oes </td></tr><tr> <td  colspan='10' style='text-align: center';>Fonte: Informa��o Oficial </td></tr><tr> <td  colspan='10' style='text-align: center';>* Corresponde ao Total da Declara��o </td></tr><tr> <td  colspan='10' style='text-align: center';>www.infoalert.com.br </td></tr><tr> <td  colspan='10' style='text-align: center';>Email: comercial@infoalert.com.br </td></tr></table>

@@ -1,0 +1,1366 @@
+
+    <table border='0'>
+        <tr >
+            <td style='background-color: darkblue; color: white;' colspan='6'> </td>            
+        </tr>
+        <tr >
+            <td style='background-color: darkblue; color: white;' colspan='6'> 
+                PERU IMPORTA��O DETALHADA / DESCRI��O DE MARCAS
+            </td>            
+        </tr>
+        <tr >
+            <td colspan='6'> Empresa: Intercamp Sistemas</td>
+        </tr>
+        <tr >
+            <td colspan='6'> Usu�rio: Bruno Cromo</td>
+        </tr>
+     </table>
+     <BR />        
+     
+        <table align=center cellpadding=3>
+            <tr>    
+                <td colspan='6' style='background-color: darkblue; color: white;'> Dados da Consulta</td>
+            </tr>
+            <tr>
+                <td colspan='3'> Descricao / Marca / Modelo</td>
+                <td colspan='3' style='text-align: left;'></td>
+            </tr>
+            <tr>
+                <td colspan='3'> NCM </td>
+                <td colspan='3' style='text-align: left;'>  </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Data Inicial </td>
+                <td colspan='3' style='text-align: left;'>
+                    01-01-2010
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Data Final </td>
+                <td colspan='3' style='text-align: left;'> 
+                    31-01-2014
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Valor Unit�rio </td>
+                <td colspan='3' style='text-align: left;'>Inicial: 0
+                Final: 0</td>
+            </tr>
+        </table>
+        <br />
+    <table border='1'>
+        <tr style='background-color: darkblue; color: white;'>
+
+        <td> Data</td>
+        <td> Origem</td>
+        <td> Compra</td>
+        <td> NCM</td>
+        <td> Importador</td>
+        <td> Marca</td>
+        <td> Modelo</td>
+        <td> Qtde</td>
+        <td> Unidade</td>
+        <td> V. Unit�rio </td>
+        <td> V. Total</td>
+        </tr>
+        
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-08</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INVERSIONES FOREST CHILE LTDA.</td>
+        <td style='width: 150; text-align: left;'> WUHAN-F</td>
+        <td style='width: 150; text-align: left;'> ZTDQ-9060E</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.351,00</td>
+        <td style='width: 80; text-align: right;'> 4.351,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-10</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INVERSIONES FOREST CHILE LTDA.</td>
+        <td style='width: 150; text-align: left;'> WUHAN-F</td>
+        <td style='width: 150; text-align: left;'> 9PK-200</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 1.048,00</td>
+        <td style='width: 80; text-align: right;'> 1.048,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-14</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ALEJANDRO OYANEDER FERNANDEZ</td>
+        <td style='width: 150; text-align: left;'> GD HAN'S YUEMIN-F</td>
+        <td style='width: 150; text-align: left;'> CMA1390,DE METALES U OTRAS MAT</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.712,74</td>
+        <td style='width: 80; text-align: right;'> 4.712,74</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-14</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUTECNICA CHACON S.I.C. LTDA</td>
+        <td style='width: 150; text-align: left;'> WUHAN VICTORY-F</td>
+        <td style='width: 150; text-align: left;'> MODELO DP-HB50</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.348,17</td>
+        <td style='width: 80; text-align: right;'> 8.696,33</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-15</td>
+        <td style='width: 80; text-align: center;'> India (la)</td>
+        <td style='width: 80; text-align: center;'> India (la)</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> GOODYEAR DE CHILE S.A.I.C.</td>
+        <td style='width: 150; text-align: left;'> MEERUT-F</td>
+        <td style='width: 150; text-align: left;'> SLG-026</td>
+        <td style='width: 50; text-align: center;'> 12</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 300,40</td>
+        <td style='width: 80; text-align: right;'> 3.604,81</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-16</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COM.D/MET.Y EQU.NORMETAL LTDA.</td>
+        <td style='width: 150; text-align: left;'> WUHAN-F</td>
+        <td style='width: 150; text-align: left;'> TQL-EC1290,120W,POR ARRANQUEDE</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.480,00</td>
+        <td style='width: 80; text-align: right;'> 5.480,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-17</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TEC.DE GRAB.TECNOGRABADOS LTDA</td>
+        <td style='width: 150; text-align: left;'> LASER SYSTEMOEM</td>
+        <td style='width: 150; text-align: left;'> MOD.VIS 20 WATT</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 23.645,19</td>
+        <td style='width: 80; text-align: right;'> 23.645,19</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-18</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COM. INES LUCIA VARGAS BARRERA</td>
+        <td style='width: 150; text-align: left;'> KLUZ-F</td>
+        <td style='width: 150; text-align: left;'> ILS12.75</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 15.000,00</td>
+        <td style='width: 80; text-align: right;'> 15.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-22</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> JINAN-F</td>
+        <td style='width: 150; text-align: left;'> MODELO JQ-6040</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 3.300,00</td>
+        <td style='width: 80; text-align: right;'> 3.300,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-22</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> JINAN-F</td>
+        <td style='width: 150; text-align: left;'> MODELO JQ-1490</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 7.860,00</td>
+        <td style='width: 80; text-align: right;'> 7.860,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-24</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> GOODYEAR DE CHILE S.A.I.C.</td>
+        <td style='width: 150; text-align: left;'> THE GOODYEAR-F</td>
+        <td style='width: 150; text-align: left;'> ROJO</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 28.970,39</td>
+        <td style='width: 80; text-align: right;'> 28.970,39</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-01-30</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> GOODYEAR DE CHILE S.A.I.C.</td>
+        <td style='width: 150; text-align: left;'> VANDERBURGH-F</td>
+        <td style='width: 150; text-align: left;'> P/NLS4000-303</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 7.560,54</td>
+        <td style='width: 80; text-align: right;'> 15.121,08</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-01</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> RMI-LASER-F</td>
+        <td style='width: 150; text-align: left;'> UM-1</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 12.000,00</td>
+        <td style='width: 80; text-align: right;'> 12.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-01</td>
+        <td style='width: 80; text-align: center;'> Suiza</td>
+        <td style='width: 80; text-align: center;'> Suiza</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TEC.DE GRAB.TECNOGRABADOS LTDA</td>
+        <td style='width: 150; text-align: left;'> HOUSTON-F</td>
+        <td style='width: 150; text-align: left;'> ADP5090/AC500</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 1.549,57</td>
+        <td style='width: 80; text-align: right;'> 3.099,13</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-05</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> PROBAG LTDA</td>
+        <td style='width: 150; text-align: left;'> NINGBO-F</td>
+        <td style='width: 150; text-align: left;'> ELECTRICA</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 17.004,90</td>
+        <td style='width: 80; text-align: right;'> 17.004,90</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-13</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> BANCO CREDITO E INVERSIONES</td>
+        <td style='width: 150; text-align: left;'> PRIMA POWER</td>
+        <td style='width: 150; text-align: left;'> PLATINO 1530</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 573.007,95</td>
+        <td style='width: 80; text-align: right;'> 573.007,95</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-14</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MAQLASER LIMITADA</td>
+        <td style='width: 150; text-align: left;'> LIAOCHENG SHENHUI-F</td>
+        <td style='width: 150; text-align: left;'> SH-G690</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.652,02</td>
+        <td style='width: 80; text-align: right;'> 5.652,02</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-14</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> NCS PRODUCTOS GRAFICOS LTDA.</td>
+        <td style='width: 150; text-align: left;'> G.C.C.-GOLDENCYCLE-F</td>
+        <td style='width: 150; text-align: left;'> MEDIANTE LASER</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 125.000,00</td>
+        <td style='width: 80; text-align: right;'> 125.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-14</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MAQLASER LIMITADA</td>
+        <td style='width: 150; text-align: left;'> LIAOCHENG SHENHUI-F</td>
+        <td style='width: 150; text-align: left;'> SH-G350D</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 2.279,81</td>
+        <td style='width: 80; text-align: right;'> 4.559,62</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-14</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MAQLASER LIMITADA</td>
+        <td style='width: 150; text-align: left;'> LIAOCHENG SHENHUI-F</td>
+        <td style='width: 150; text-align: left;'> SH-G570</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.599,52</td>
+        <td style='width: 80; text-align: right;'> 4.599,52</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-21</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLUC.TECNOLOGICAS PROCAD LTDA</td>
+        <td style='width: 150; text-align: left;'> GCC AMERICA-F</td>
+        <td style='width: 150; text-align: left;'> MODELO X252RX LASER PRO</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.230,00</td>
+        <td style='width: 80; text-align: right;'> 10.460,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-25</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SIST.TECN.YBIO. LUCY H.U. EIRL</td>
+        <td style='width: 150; text-align: left;'> PERFECT INTERNATIONAL GROUP (C</td>
+        <td style='width: 150; text-align: left;'> HINA)LIMITED-FPEDK-13090DE USO</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 1.500,00</td>
+        <td style='width: 80; text-align: right;'> 1.500,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-25</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ANA CECILIA MORAN</td>
+        <td style='width: 150; text-align: left;'> JINAN T.-F</td>
+        <td style='width: 150; text-align: left;'> LASER TS1490(80W)</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.576,00</td>
+        <td style='width: 80; text-align: right;'> 4.576,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-26</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERC. FORMATO DIGITAL SPA</td>
+        <td style='width: 150; text-align: left;'> JINAN RUIJIE-F</td>
+        <td style='width: 150; text-align: left;'> RJ1325</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.443,00</td>
+        <td style='width: 80; text-align: right;'> 4.443,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-02-27</td>
+        <td style='width: 80; text-align: center;'> India (la)</td>
+        <td style='width: 80; text-align: center;'> India (la)</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> GOODYEAR DE CHILE S.A.I.C.</td>
+        <td style='width: 150; text-align: left;'> MEERUT-F</td>
+        <td style='width: 150; text-align: left;'> SLG-026</td>
+        <td style='width: 50; text-align: center;'> 12</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 335,33</td>
+        <td style='width: 80; text-align: right;'> 4.023,94</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-04</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SAZO IMPRESIONES DIGITALES EIR</td>
+        <td style='width: 150; text-align: left;'> TECH-F</td>
+        <td style='width: 150; text-align: left;'> XJ1280 CNC LASER</td>
+        <td style='width: 50; text-align: center;'> 14</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 2.683,34</td>
+        <td style='width: 80; text-align: right;'> 37.566,70</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-05</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOC.MET.QUINONES FARFAN LTDA.</td>
+        <td style='width: 150; text-align: left;'> CHINAYOUTH INDUSTRAL-F</td>
+        <td style='width: 150; text-align: left;'> A1530(350WROFIN) MEDIANTE RAYO</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 149.541,18</td>
+        <td style='width: 80; text-align: right;'> 149.541,18</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-08</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> FAB.DE ART. GAST. BRAVOINOX LT</td>
+        <td style='width: 150; text-align: left;'> N.J-F</td>
+        <td style='width: 150; text-align: left;'> MOD.TQL-LCY 620-3015</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 104.478,74</td>
+        <td style='width: 80; text-align: right;'> 104.478,74</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-08</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SCHARFSTEIN S.A.</td>
+        <td style='width: 150; text-align: left;'> GRAVOGRAPH-F</td>
+        <td style='width: 150; text-align: left;'> GRAVOTECH M20 STD.</td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 3.505,23</td>
+        <td style='width: 80; text-align: right;'> 10.515,68</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-08</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SCHARFSTEIN S.A.</td>
+        <td style='width: 150; text-align: left;'> GRAVOGRAPH-F</td>
+        <td style='width: 150; text-align: left;'> M20 , JOYERIA</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.585,31</td>
+        <td style='width: 80; text-align: right;'> 11.170,61</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-08</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SCHARFSTEIN S.A.</td>
+        <td style='width: 150; text-align: left;'> GRAVOGRAPH-F</td>
+        <td style='width: 150; text-align: left;'> IS200-97</td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.825,58</td>
+        <td style='width: 80; text-align: right;'> 14.476,74</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-08</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SCHARFSTEIN S.A.</td>
+        <td style='width: 150; text-align: left;'> GRAVOGRAPH-F</td>
+        <td style='width: 150; text-align: left;'> LS900  , 60W. STD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 18.338,25</td>
+        <td style='width: 80; text-align: right;'> 18.338,25</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-08</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SCHARFSTEIN S.A.</td>
+        <td style='width: 150; text-align: left;'> GRAVOGRAPH-F</td>
+        <td style='width: 150; text-align: left;'> LS100  , 30W. STD</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 9.955,04</td>
+        <td style='width: 80; text-align: right;'> 19.910,08</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-12</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IRMA DEL ROSARIO BAHAMONDEZ O</td>
+        <td style='width: 150; text-align: left;'> JINAN NICE-F</td>
+        <td style='width: 150; text-align: left;'> MODELO  NC-E6090</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 1.528,43</td>
+        <td style='width: 80; text-align: right;'> 1.528,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-12</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> ZHAOZHAN</td>
+        <td style='width: 150; text-align: left;'> MODELO CNCUT-3375G-SE</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 10.070,00</td>
+        <td style='width: 80; text-align: right;'> 10.070,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-13</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> RMI-LASER-F</td>
+        <td style='width: 150; text-align: left;'> UM-1</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 12.000,00</td>
+        <td style='width: 80; text-align: right;'> 12.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-14</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> LASER TOOLS AND TECHNICS CORP-</td>
+        <td style='width: 150; text-align: left;'> FILS-3NM-R-V30-NCCQUE OPEREN M</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 9.400,00</td>
+        <td style='width: 80; text-align: right;'> 9.400,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-14</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> LASER TOOLS AND TECHNICS</td>
+        <td style='width: 150; text-align: left;'> ILS-2-R-V30-NCC</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 7.600,00</td>
+        <td style='width: 80; text-align: right;'> 15.200,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-14</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> LETREROS ABROC LTDA</td>
+        <td style='width: 150; text-align: left;'> YOUTH-F</td>
+        <td style='width: 150; text-align: left;'> TIPOQUE TRABAJE POR ARRANQUE M</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 61.250,00</td>
+        <td style='width: 80; text-align: right;'> 61.250,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-15</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIAL AMOR REAL LTDA</td>
+        <td style='width: 150; text-align: left;'> YIWU UNION-F</td>
+        <td style='width: 150; text-align: left;'> TRM06</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 1.057,00</td>
+        <td style='width: 80; text-align: right;'> 2.114,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-18</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SERV.DE DISENO E ING.D-INVENTA</td>
+        <td style='width: 150; text-align: left;'> FORTECH INC.-F</td>
+        <td style='width: 150; text-align: left;'> MODELO TL 1390</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.135,00</td>
+        <td style='width: 80; text-align: right;'> 5.135,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-25</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SANDRA V. HUENUQUEO UTRERA</td>
+        <td style='width: 150; text-align: left;'> J.M.T.C.-F</td>
+        <td style='width: 150; text-align: left;'> MOD. MT-L960</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.022,00</td>
+        <td style='width: 80; text-align: right;'> 5.022,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-27</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> ZHAOZHAN</td>
+        <td style='width: 150; text-align: left;'> MODELO ZZ-1530H</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 3.163,50</td>
+        <td style='width: 80; text-align: right;'> 3.163,50</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-03-28</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> GOODYEAR DE CHILE S.A.I.C.</td>
+        <td style='width: 150; text-align: left;'> GOODYEAR-F</td>
+        <td style='width: 150; text-align: left;'> MOD. Z-LASER Z80M18B-F-660-IP-</td>
+        <td style='width: 50; text-align: center;'> 24</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 732,92</td>
+        <td style='width: 80; text-align: right;'> 17.590,16</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-01</td>
+        <td style='width: 80; text-align: center;'> Portugal</td>
+        <td style='width: 80; text-align: center;'> Portugal</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ADRIANA GHEZA CANTON</td>
+        <td style='width: 150; text-align: left;'> BARBOFLEX-F</td>
+        <td style='width: 150; text-align: left;'> ELECTRONICA MOD.MARK100P</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 1.415,87</td>
+        <td style='width: 80; text-align: right;'> 1.415,87</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-01</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> NOBLE EQUIPMENT & SERVICES SA</td>
+        <td style='width: 150; text-align: left;'> LVDSTRIPPIT-F</td>
+        <td style='width: 150; text-align: left;'> MODELO ORION PLUS3015</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 322.221,88</td>
+        <td style='width: 80; text-align: right;'> 322.221,88</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-02</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MODULAB ECODISE.O LTDA.</td>
+        <td style='width: 150; text-align: left;'> JINAN JINDIAOTECHNOLOGY-F</td>
+        <td style='width: 150; text-align: left;'> LASER</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.330,00</td>
+        <td style='width: 80; text-align: right;'> 4.330,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-03</td>
+        <td style='width: 80; text-align: center;'> Suiza</td>
+        <td style='width: 80; text-align: center;'> Suiza</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TEC.DE GRAB.TECNOGRABADOS LTDA</td>
+        <td style='width: 150; text-align: left;'> HOUSTON-F</td>
+        <td style='width: 150; text-align: left;'> ADP120160/AC500</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 3.652,79</td>
+        <td style='width: 80; text-align: right;'> 3.652,79</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-05</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> VICTOR HERRERA MEJIAS CONTRATI</td>
+        <td style='width: 150; text-align: left;'> JINAN JINQIANG-F</td>
+        <td style='width: 150; text-align: left;'> RECI-150W</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 900,00</td>
+        <td style='width: 80; text-align: right;'> 900,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-08</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> RMI-LASER-F</td>
+        <td style='width: 150; text-align: left;'> UM-1</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 12.000,00</td>
+        <td style='width: 80; text-align: right;'> 12.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-08</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> RMI</td>
+        <td style='width: 150; text-align: left;'> C-M-R</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 22.500,00</td>
+        <td style='width: 80; text-align: right;'> 22.500,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-18</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> JINAN-F</td>
+        <td style='width: 150; text-align: left;'> MODELO JQ-9060</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 3.640,00</td>
+        <td style='width: 80; text-align: right;'> 3.640,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-18</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> JINAN-F</td>
+        <td style='width: 150; text-align: left;'> MODELO JQ-1390</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 6.900,00</td>
+        <td style='width: 80; text-align: right;'> 6.900,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-22</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MAQ. Y SERV. INTEGRALES LTDA</td>
+        <td style='width: 150; text-align: left;'> WUHAN-F</td>
+        <td style='width: 150; text-align: left;'> LASER</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 21.300,00</td>
+        <td style='width: 80; text-align: right;'> 21.300,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-22</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MAQ. Y SERV. INTEGRALES LTDA</td>
+        <td style='width: 150; text-align: left;'> WUHAN-F</td>
+        <td style='width: 150; text-align: left;'> LASER</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 20.000,00</td>
+        <td style='width: 80; text-align: right;'> 20.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-04-22</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MAQ. Y SERV. INTEGRALES LTDA</td>
+        <td style='width: 150; text-align: left;'> WUHAN-F</td>
+        <td style='width: 150; text-align: left;'> LASER</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 57.300,00</td>
+        <td style='width: 80; text-align: right;'> 57.300,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-02</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> GDO MARKETING LTDA</td>
+        <td style='width: 150; text-align: left;'> JINAN JCUT-F</td>
+        <td style='width: 150; text-align: left;'> 1325</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.590,00</td>
+        <td style='width: 80; text-align: right;'> 4.590,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-03</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> GOODYEAR DE CHILE S.A.I.C.</td>
+        <td style='width: 150; text-align: left;'> HF-F</td>
+        <td style='width: 150; text-align: left;'> 20147086</td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 618,65</td>
+        <td style='width: 80; text-align: right;'> 1.855,95</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-07</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> FRANCISCO CERCOS MARTI</td>
+        <td style='width: 150; text-align: left;'> ZHENGZHOU-F</td>
+        <td style='width: 150; text-align: left;'> WER-640</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 998,00</td>
+        <td style='width: 80; text-align: right;'> 1.996,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-07</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MARCEL Y MARCEL FCA.RES.ELECT.</td>
+        <td style='width: 150; text-align: left;'> JINAN BODOR-F</td>
+        <td style='width: 150; text-align: left;'> LASER</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 3.716,97</td>
+        <td style='width: 80; text-align: right;'> 3.716,97</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-15</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> UNIV.TEC.FEDERICO SANTA MARIA</td>
+        <td style='width: 150; text-align: left;'> FORTECH INC.-F</td>
+        <td style='width: 150; text-align: left;'> TL1390</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.470,00</td>
+        <td style='width: 80; text-align: right;'> 5.470,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-16</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLUC.TECNOLOGICAS PROCAD LTDA</td>
+        <td style='width: 150; text-align: left;'> GCC AMERICA-F</td>
+        <td style='width: 150; text-align: left;'> MODELO X252RX-80 LASERPRO</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.340,00</td>
+        <td style='width: 80; text-align: right;'> 10.680,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-17</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> PATRICIO BAR Y CIA LTDA</td>
+        <td style='width: 150; text-align: left;'> LASERBERG-F</td>
+        <td style='width: 150; text-align: left;'> POLARIS 100</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 25.355,56</td>
+        <td style='width: 80; text-align: right;'> 25.355,56</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-17</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SANDRA D/L.MERCED.FLORES SOTO</td>
+        <td style='width: 150; text-align: left;'> CAMFIVE</td>
+        <td style='width: 150; text-align: left;'> MODELO CFL-CMA1200T DE80 WATTS</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 6.088,10</td>
+        <td style='width: 80; text-align: right;'> 6.088,10</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-17</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> UNIV.TEC.FEDERICO SANTA MARIA</td>
+        <td style='width: 150; text-align: left;'> SHANGHAI SONLE-F</td>
+        <td style='width: 150; text-align: left;'> POWEMAX 65</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.000,00</td>
+        <td style='width: 80; text-align: right;'> 5.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-17</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> UNIV.TEC.FEDERICO SANTA MARIA</td>
+        <td style='width: 150; text-align: left;'> SHANGHAI SONLE-F</td>
+        <td style='width: 150; text-align: left;'> CNC1525 H</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 3.100,00</td>
+        <td style='width: 80; text-align: right;'> 3.100,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-27</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> GOODYEAR DE CHILE S.A.I.C.</td>
+        <td style='width: 150; text-align: left;'> V-LINE EUROPE</td>
+        <td style='width: 150; text-align: left;'> MOD.3HDL-63-A4,VOLTAJE 15-30 V</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 612,09</td>
+        <td style='width: 80; text-align: right;'> 612,09</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-28</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> L.T.A.T.-F</td>
+        <td style='width: 150; text-align: left;'> ILS-3NM-R-V30-NCC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 9.100,00</td>
+        <td style='width: 80; text-align: right;'> 9.100,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-28</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> L.T.A.T.-F</td>
+        <td style='width: 150; text-align: left;'> ILS-3NM-R-V30-NCC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 9.400,00</td>
+        <td style='width: 80; text-align: right;'> 9.400,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-30</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MIROVAL PUBLICIDAD LTDA</td>
+        <td style='width: 150; text-align: left;'> HK GREAT-F</td>
+        <td style='width: 150; text-align: left;'> GY-161OD</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.777,10</td>
+        <td style='width: 80; text-align: right;'> 5.777,10</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-31</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> MANUEL GALLARDO LANZELLOTE</td>
+        <td style='width: 150; text-align: left;'> DONGGUAN-F</td>
+        <td style='width: 150; text-align: left;'> MODELO ETC1080 LASER</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.128,15</td>
+        <td style='width: 80; text-align: right;'> 4.128,15</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-05-31</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 80; text-align: center;'> Alemania</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INNPACK S.A.</td>
+        <td style='width: 150; text-align: left;'> GK LASER-K</td>
+        <td style='width: 150; text-align: left;'> ELECTRONICA</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 35.536,60</td>
+        <td style='width: 80; text-align: right;'> 35.536,60</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-06-03</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> JINAN-F</td>
+        <td style='width: 150; text-align: left;'> MODELO JQ-9060</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 3.855,00</td>
+        <td style='width: 80; text-align: right;'> 7.710,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-06-04</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ADAMS LIMITADA</td>
+        <td style='width: 150; text-align: left;'> GITCL-F</td>
+        <td style='width: 150; text-align: left;'> LASER</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 2.169,00</td>
+        <td style='width: 80; text-align: right;'> 2.169,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-06-10</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> G Y M MAQUINAS INDUSTRIALES LT</td>
+        <td style='width: 150; text-align: left;'> SHANDONG-F</td>
+        <td style='width: 150; text-align: left;'> AREA DE GRABADO 1300 X 2500 MM</td>
+        <td style='width: 50; text-align: center;'> 4</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 7.243,25</td>
+        <td style='width: 80; text-align: right;'> 28.973,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-06-24</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUBOTON LTDA.</td>
+        <td style='width: 150; text-align: left;'> TULLIO*GIUSI</td>
+        <td style='width: 150; text-align: left;'> GRIP/EDGE 2ND</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 9.011,62</td>
+        <td style='width: 80; text-align: right;'> 9.011,62</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-06-24</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUBOTON LTDA.</td>
+        <td style='width: 150; text-align: left;'> GIUSILASER</td>
+        <td style='width: 150; text-align: left;'> WINNER 120W</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 39.320,49</td>
+        <td style='width: 80; text-align: right;'> 39.320,49</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-06-25</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> PEDRO HECTOR ESPINOZA LOPEZ</td>
+        <td style='width: 150; text-align: left;'> J.M.E.-F</td>
+        <td style='width: 150; text-align: left;'> LASER</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 2.305,00</td>
+        <td style='width: 80; text-align: right;'> 2.305,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-06-28</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 80; text-align: center;'> Brasil</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPRENTA A.MOLINA FLORES S.A.</td>
+        <td style='width: 150; text-align: left;'> SEI SPA</td>
+        <td style='width: 150; text-align: left;'> MODELO PERSONAL LASER1531 200W</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 148.473,04</td>
+        <td style='width: 80; text-align: right;'> 148.473,04</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-03</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ARQUITEC. Y CORTE LASER LTDA</td>
+        <td style='width: 150; text-align: left;'> CAMFIVE</td>
+        <td style='width: 150; text-align: left;'> CFL-CMA1810, DE 130 W.</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 14.774,51</td>
+        <td style='width: 80; text-align: right;'> 14.774,51</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-03</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOC.DE INV.RIO FRIO LTDA.</td>
+        <td style='width: 150; text-align: left;'> JINAN XINTIAN-F</td>
+        <td style='width: 150; text-align: left;'> MODELO NO.:XTL-FP20</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 13.223,00</td>
+        <td style='width: 80; text-align: right;'> 13.223,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-04</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> RMI LASER LLC</td>
+        <td style='width: 150; text-align: left;'> UM-1</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 13.250,00</td>
+        <td style='width: 80; text-align: right;'> 13.250,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-04</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> VALE-F</td>
+        <td style='width: 150; text-align: left;'> MODELO CNCUT-3375G-ST</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 8.119,20</td>
+        <td style='width: 80; text-align: right;'> 8.119,20</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-04</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> ZHAOZHAN</td>
+        <td style='width: 150; text-align: left;'> MODELO CNCUT-3375G-SE</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 9.501,20</td>
+        <td style='width: 80; text-align: right;'> 9.501,20</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-08</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> LUIS FELIPE VALENZUELA OYARZO</td>
+        <td style='width: 150; text-align: left;'> REDSAIL - F</td>
+        <td style='width: 150; text-align: left;'> M500</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 2.886,05</td>
+        <td style='width: 80; text-align: right;'> 5.772,09</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-10</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> JINAN-F</td>
+        <td style='width: 150; text-align: left;'> MODELO JQ-6040</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 3.661,59</td>
+        <td style='width: 80; text-align: right;'> 3.661,59</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-10</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> COMERCIALIZADORA ROUTEC LTDA</td>
+        <td style='width: 150; text-align: left;'> JINAN-F</td>
+        <td style='width: 150; text-align: left;'> MODELO JQ-1390</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 6.610,85</td>
+        <td style='width: 80; text-align: right;'> 6.610,85</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-11</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLUC.TECNOLOGICAS PROCAD LTDA</td>
+        <td style='width: 150; text-align: left;'> GCC AMERICA-F</td>
+        <td style='width: 150; text-align: left;'> MODELO X252RX LASER PRO</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.800,00</td>
+        <td style='width: 80; text-align: right;'> 5.800,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-19</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SCHARFSTEIN S.A.</td>
+        <td style='width: 150; text-align: left;'> GRAVOGRAPH-F</td>
+        <td style='width: 150; text-align: left;'> M20 DE 200WATTS</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 3.578,58</td>
+        <td style='width: 80; text-align: right;'> 7.157,16</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-19</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SCHARFSTEIN S.A.</td>
+        <td style='width: 150; text-align: left;'> GRAVOGRAPH-F</td>
+        <td style='width: 150; text-align: left;'> M20 DE 200WATTS</td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.700,57</td>
+        <td style='width: 80; text-align: right;'> 17.101,72</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-19</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 80; text-align: center;'> Francia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SCHARFSTEIN S.A.</td>
+        <td style='width: 150; text-align: left;'> GRAVOGRAPH</td>
+        <td style='width: 150; text-align: left;'> LS900 LASER</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 13.570,31</td>
+        <td style='width: 80; text-align: right;'> 13.570,31</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-23</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOC. DE INVERS.LETGRAF Y CIA.L</td>
+        <td style='width: 150; text-align: left;'> PERFECLASER</td>
+        <td style='width: 150; text-align: left;'> PE-M700-1530</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 27.729,46</td>
+        <td style='width: 80; text-align: right;'> 55.458,91</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-25</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> ASIAGRAF LTDA</td>
+        <td style='width: 150; text-align: left;'> SHANDONG-F</td>
+        <td style='width: 150; text-align: left;'> ELECTRICA</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 294,12</td>
+        <td style='width: 80; text-align: right;'> 588,23</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-29</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 80; text-align: center;'> Italia</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TEC.DE GRAB.TECNOGRABADOS LTDA</td>
+        <td style='width: 150; text-align: left;'> LASER SYSTEMOEM</td>
+        <td style='width: 150; text-align: left;'> MOD.VIS 20 WATT</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 24.017,69</td>
+        <td style='width: 80; text-align: right;'> 24.017,69</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-31</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> L.T.A.T.-F</td>
+        <td style='width: 150; text-align: left;'> ILS-2-R-V30</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 7.600,00</td>
+        <td style='width: 80; text-align: right;'> 15.200,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-31</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 80; text-align: center;'> Taiwán</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> IMPORTADORA Y DISTRIBUIDORA DE</td>
+        <td style='width: 150; text-align: left;'> L.T.A.T.-F</td>
+        <td style='width: 150; text-align: left;'> ILS-3NM-R-V30-NCC</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 9.400,00</td>
+        <td style='width: 80; text-align: right;'> 9.400,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-07-31</td>
+        <td style='width: 80; text-align: center;'> Países Bajos</td>
+        <td style='width: 80; text-align: center;'> Países Bajos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> A Y C IMPRESORES LTDA</td>
+        <td style='width: 150; text-align: left;'> BOXPERT-F</td>
+        <td style='width: 150; text-align: left;'> ELCEDE LCS 300 4TR ANO 1996</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 57.246,94</td>
+        <td style='width: 80; text-align: right;'> 57.246,94</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-08-01</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> SOLUC.TECNOLOGICAS PROCAD LTDA</td>
+        <td style='width: 150; text-align: left;'> GCC AMERICA-F</td>
+        <td style='width: 150; text-align: left;'> MODELO X252RX-80 LASERPRO</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 5.500,00</td>
+        <td style='width: 80; text-align: right;'> 11.000,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-08-05</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 80; text-align: center;'> China</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> HECTOR EDUARDO VENEGAS SILVA</td>
+        <td style='width: 150; text-align: left;'> XYZ MACHINERY-F</td>
+        <td style='width: 150; text-align: left;'> EXLAS-X3-1280ELECTROMECANICA A</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 4.676,40</td>
+        <td style='width: 80; text-align: right;'> 4.676,40</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2013-08-06</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84561000</td>
+        <td style='width: 380; height: 50; text-align: left;'> TEC.DE GRAB.TECNOGRABADOS LTDA</td>
+        <td style='width: 150; text-align: left;'> EPILOG-F</td>
+        <td style='width: 150; text-align: left;'> 36EXT 75 220V</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidades</td>        
+        <td style='width: 80; text-align: right;'> 23.792,15</td>
+        <td style='width: 80; text-align: right;'> 23.792,15</td>   
+        </tr><tr> <td  colspan='10' style='text-align: center';> Obs.: Dados preliminares sujeitos a modifica�oes </td></tr><tr> <td  colspan='10' style='text-align: center';>Fonte: Informa��o Oficial </td></tr><tr> <td  colspan='10' style='text-align: center';>* Corresponde ao Total da Declara��o </td></tr><tr> <td  colspan='10' style='text-align: center';>www.infoalert.com.br </td></tr><tr> <td  colspan='10' style='text-align: center';>Email: comercial@infoalert.com.br </td></tr></table>

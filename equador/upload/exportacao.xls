@@ -1,0 +1,1265 @@
+
+    <table border='0'>
+        <tr >
+            <td style='background-color: darkblue; color: white;' colspan='6'> </td>            
+        </tr>
+        <tr >
+            <td style='background-color: darkblue; color: white;' colspan='6'> 
+                EQUADOR IMPORTA��O DETALHADA / DESCRI��O DE MARCAS
+            </td>            
+        </tr>
+        <tr >
+            <td colspan='6'> Empresa: Intercamp Sistemas</td>
+        </tr>
+        <tr >
+            <td colspan='6'> Usu�rio: Bruno Cromo</td>
+        </tr>
+     </table>
+     <BR />        
+     
+        <table align=center cellpadding=3>
+            <tr>    
+                <td colspan='6' style='background-color: darkblue; color: white;'> Dados da Consulta</td>
+            </tr>
+            <tr>
+                <td colspan='3'> Descricao / Marca / Modelo</td>
+                <td colspan='3' style='text-align: left;'></td>
+            </tr>
+            <tr>
+                <td colspan='3'> NCM </td>
+                <td colspan='3' style='text-align: left;'>  </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Data Inicial </td>
+                <td colspan='3' style='text-align: left;'>
+                    01-01-2010
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Data Final </td>
+                <td colspan='3' style='text-align: left;'> 
+                    31-01-2015
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'> Valor Unit�rio </td>
+                <td colspan='3' style='text-align: left;'>Inicial: 0
+                Final: 0</td>
+            </tr>
+        </table>
+        <br />
+    <table border='1'>
+        <tr style='background-color: darkblue; color: white;'>
+
+        <td> Data</td>
+        <td> Origem</td>
+        <td> Compra</td>
+        <td> NCM</td>
+        <td> Importador</td>
+        <td> Marca</td>
+        <td> Qtde</td>
+        <td> Unidade</td>
+        <td> V. Unit�rio </td>
+        <td> V. Total</td>
+        </tr>
+        
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 480</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,39</td>
+        <td style='width: 80; text-align: right;'> 667,62</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 174</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 2,54</td>
+        <td style='width: 80; text-align: right;'> 442,38</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 600</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,28</td>
+        <td style='width: 80; text-align: right;'> 768,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 6000</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,05</td>
+        <td style='width: 80; text-align: right;'> 6.300,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1600</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,12</td>
+        <td style='width: 80; text-align: right;'> 1.792,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 170</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,60</td>
+        <td style='width: 80; text-align: right;'> 272,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 160</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,46</td>
+        <td style='width: 80; text-align: right;'> 234,02</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 200</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,42</td>
+        <td style='width: 80; text-align: right;'> 284,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 160</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,33</td>
+        <td style='width: 80; text-align: right;'> 213,22</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 120</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 2,28</td>
+        <td style='width: 80; text-align: right;'> 274,02</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 160</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,46</td>
+        <td style='width: 80; text-align: right;'> 234,02</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 664</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,19</td>
+        <td style='width: 80; text-align: right;'> 790,58</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 160</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,33</td>
+        <td style='width: 80; text-align: right;'> 213,22</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 160</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,33</td>
+        <td style='width: 80; text-align: right;'> 213,22</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1000</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,38</td>
+        <td style='width: 80; text-align: right;'> 1.380,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 192</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,31</td>
+        <td style='width: 80; text-align: right;'> 251,94</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 240</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,51</td>
+        <td style='width: 80; text-align: right;'> 362,82</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 800</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,30</td>
+        <td style='width: 80; text-align: right;'> 1.040,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 600</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,61</td>
+        <td style='width: 80; text-align: right;'> 966,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 600</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,05</td>
+        <td style='width: 80; text-align: right;'> 630,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 240</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,51</td>
+        <td style='width: 80; text-align: right;'> 362,82</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 600</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,34</td>
+        <td style='width: 80; text-align: right;'> 804,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 104</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,48</td>
+        <td style='width: 80; text-align: right;'> 154,34</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 120</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,53</td>
+        <td style='width: 80; text-align: right;'> 184,02</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 104</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,27</td>
+        <td style='width: 80; text-align: right;'> 132,50</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 800</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,35</td>
+        <td style='width: 80; text-align: right;'> 1.080,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 480</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,44</td>
+        <td style='width: 80; text-align: right;'> 691,62</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 600</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,13</td>
+        <td style='width: 80; text-align: right;'> 678,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 2000</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,08</td>
+        <td style='width: 80; text-align: right;'> 2.160,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 200</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,26</td>
+        <td style='width: 80; text-align: right;'> 252,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 104</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,56</td>
+        <td style='width: 80; text-align: right;'> 162,66</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 4000</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,13</td>
+        <td style='width: 80; text-align: right;'> 4.520,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 600</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,47</td>
+        <td style='width: 80; text-align: right;'> 882,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 2000</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,06</td>
+        <td style='width: 80; text-align: right;'> 2.120,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 400</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,49</td>
+        <td style='width: 80; text-align: right;'> 596,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 600</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,29</td>
+        <td style='width: 80; text-align: right;'> 774,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 240</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,34</td>
+        <td style='width: 80; text-align: right;'> 322,02</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 160</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,81</td>
+        <td style='width: 80; text-align: right;'> 290,02</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 104</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,30</td>
+        <td style='width: 80; text-align: right;'> 135,62</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 100</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,47</td>
+        <td style='width: 80; text-align: right;'> 147,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 3200</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,22</td>
+        <td style='width: 80; text-align: right;'> 3.904,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 160</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,31</td>
+        <td style='width: 80; text-align: right;'> 210,02</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 800</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,29</td>
+        <td style='width: 80; text-align: right;'> 1.032,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 600</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,25</td>
+        <td style='width: 80; text-align: right;'> 750,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 120</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,25</td>
+        <td style='width: 80; text-align: right;'> 150,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 320</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,32</td>
+        <td style='width: 80; text-align: right;'> 422,82</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 240</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,22</td>
+        <td style='width: 80; text-align: right;'> 293,22</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 400</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,22</td>
+        <td style='width: 80; text-align: right;'> 488,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 480</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,19</td>
+        <td style='width: 80; text-align: right;'> 571,62</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 2000</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,22</td>
+        <td style='width: 80; text-align: right;'> 2.440,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 104</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,16</td>
+        <td style='width: 80; text-align: right;'> 121,06</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 2400</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,36</td>
+        <td style='width: 80; text-align: right;'> 3.264,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 240</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,22</td>
+        <td style='width: 80; text-align: right;'> 293,22</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 320</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,76</td>
+        <td style='width: 80; text-align: right;'> 563,62</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 160</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,50</td>
+        <td style='width: 80; text-align: right;'> 240,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 2000</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,22</td>
+        <td style='width: 80; text-align: right;'> 2.440,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 100</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,26</td>
+        <td style='width: 80; text-align: right;'> 126,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 400</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,56</td>
+        <td style='width: 80; text-align: right;'> 624,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099991</td>
+        <td style='width: 380; height: 50; text-align: left;'> AUTOCOFIC IMPORT S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 400</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1,19</td>
+        <td style='width: 80; text-align: right;'> 476,42</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099999</td>
+        <td style='width: 380; height: 50; text-align: left;'> TORRES MORA JAIME</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 20</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 9,82</td>
+        <td style='width: 80; text-align: right;'> 196,31</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099999</td>
+        <td style='width: 380; height: 50; text-align: left;'> TORRES MORA JAIME</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 20</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 9,82</td>
+        <td style='width: 80; text-align: right;'> 196,31</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099999</td>
+        <td style='width: 380; height: 50; text-align: left;'> TORRES MORA JAIME</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 20</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 9,82</td>
+        <td style='width: 80; text-align: right;'> 196,31</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-11</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84099999</td>
+        <td style='width: 380; height: 50; text-align: left;'> TORRES MORA JAIME</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 20</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 9,82</td>
+        <td style='width: 80; text-align: right;'> 196,31</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-05</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84122100</td>
+        <td style='width: 380; height: 50; text-align: left;'> MABE ECUADOR S.A.</td>
+        <td style='width: 150; text-align: left;'> COHA</td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 3.043,00</td>
+        <td style='width: 80; text-align: right;'> 3.043,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84132000</td>
+        <td style='width: 380; height: 50; text-align: left;'> GRUPO TRANSBEL S.A.</td>
+        <td style='width: 150; text-align: left;'> ESIKA</td>
+        <td style='width: 50; text-align: center;'> 45605</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 0,21</td>
+        <td style='width: 80; text-align: right;'> 9.486,58</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> México</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84132000</td>
+        <td style='width: 380; height: 50; text-align: left;'> GRUPO TRANSBEL S.A.</td>
+        <td style='width: 150; text-align: left;'> LBEL</td>
+        <td style='width: 50; text-align: center;'> 2526</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 0,38</td>
+        <td style='width: 80; text-align: right;'> 968,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137011</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 4.749,41</td>
+        <td style='width: 80; text-align: right;'> 4.749,41</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137011</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 4.749,43</td>
+        <td style='width: 80; text-align: right;'> 4.749,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137011</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1.931,43</td>
+        <td style='width: 80; text-align: right;'> 1.931,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137011</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1.931,43</td>
+        <td style='width: 80; text-align: right;'> 1.931,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137011</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1.456,43</td>
+        <td style='width: 80; text-align: right;'> 1.456,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137011</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1.456,43</td>
+        <td style='width: 80; text-align: right;'> 1.456,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137011</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 2.022,43</td>
+        <td style='width: 80; text-align: right;'> 2.022,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137011</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 2.022,43</td>
+        <td style='width: 80; text-align: right;'> 2.022,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137011</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 2.022,43</td>
+        <td style='width: 80; text-align: right;'> 2.022,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137019</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 2.477,43</td>
+        <td style='width: 80; text-align: right;'> 2.477,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137019</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 2.477,43</td>
+        <td style='width: 80; text-align: right;'> 2.477,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-05</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137019</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUSTRIAS TECNOLOGICAS ALVAREZ INTAL CIA. LTDA.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 1.070,40</td>
+        <td style='width: 80; text-align: right;'> 2.140,80</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-05</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137019</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUSTRIAS TECNOLOGICAS ALVAREZ INTAL CIA. LTDA.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 3.674,00</td>
+        <td style='width: 80; text-align: right;'> 11.022,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84137021</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 4.136,43</td>
+        <td style='width: 80; text-align: right;'> 4.136,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84139190</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 529,22</td>
+        <td style='width: 80; text-align: right;'> 1.058,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-01</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84139190</td>
+        <td style='width: 380; height: 50; text-align: left;'> INGENIO AZUCARERO DEL NORTE COMPANIA DE ECONOMIA MIXTA IANCE</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 2.964,43</td>
+        <td style='width: 80; text-align: right;'> 2.964,43</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84139190</td>
+        <td style='width: 380; height: 50; text-align: left;'> ROSERO ANDRADE WASHINGTON XAVIER</td>
+        <td style='width: 150; text-align: left;'> SEALCO S.A.</td>
+        <td style='width: 50; text-align: center;'> 2</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 46,96</td>
+        <td style='width: 80; text-align: right;'> 93,92</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-05</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84139190</td>
+        <td style='width: 380; height: 50; text-align: left;'> INDUSTRIAS TECNOLOGICAS ALVAREZ INTAL CIA. LTDA.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 1</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 449,00</td>
+        <td style='width: 80; text-align: right;'> 449,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-10</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84139190</td>
+        <td style='width: 380; height: 50; text-align: left;'> POLO ACURIA MAGALY PATRICIA</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 6</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 5,76</td>
+        <td style='width: 80; text-align: right;'> 34,56</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Peru</td>
+        <td style='width: 80; text-align: center;'> Peru</td>
+        <td style='width: 70; text-align: center;'> 84139200</td>
+        <td style='width: 380; height: 50; text-align: left;'> ECUADRILL S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 24</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 58,49</td>
+        <td style='width: 80; text-align: right;'> 1.403,66</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-04</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84146000</td>
+        <td style='width: 380; height: 50; text-align: left;'> CHALLENGER INDUSTRIAL S.A.</td>
+        <td style='width: 150; text-align: left;'> CHALLENGER S.A.S</td>
+        <td style='width: 50; text-align: center;'> 20</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 240,15</td>
+        <td style='width: 80; text-align: right;'> 4.803,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-04</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84146000</td>
+        <td style='width: 380; height: 50; text-align: left;'> CHALLENGER INDUSTRIAL S.A.</td>
+        <td style='width: 150; text-align: left;'> CHALLENGER S.A.S</td>
+        <td style='width: 50; text-align: center;'> 100</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 96,03</td>
+        <td style='width: 80; text-align: right;'> 9.603,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-04</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84146000</td>
+        <td style='width: 380; height: 50; text-align: left;'> CHALLENGER INDUSTRIAL S.A.</td>
+        <td style='width: 150; text-align: left;'> CHALLENGER S.A.S</td>
+        <td style='width: 50; text-align: center;'> 120</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 71,03</td>
+        <td style='width: 80; text-align: right;'> 8.524,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 80; text-align: center;'> Estados Unidos</td>
+        <td style='width: 70; text-align: center;'> 84149010</td>
+        <td style='width: 380; height: 50; text-align: left;'> POLO ACURIA MAGALY PATRICIA</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 3</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 120,33</td>
+        <td style='width: 80; text-align: right;'> 361,00</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84149090</td>
+        <td style='width: 380; height: 50; text-align: left;'> RINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 10</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 16,49</td>
+        <td style='width: 80; text-align: right;'> 164,88</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84149090</td>
+        <td style='width: 380; height: 50; text-align: left;'> RINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 10</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 4,58</td>
+        <td style='width: 80; text-align: right;'> 45,78</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84149090</td>
+        <td style='width: 380; height: 50; text-align: left;'> RINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 10</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 4,48</td>
+        <td style='width: 80; text-align: right;'> 44,85</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84149090</td>
+        <td style='width: 380; height: 50; text-align: left;'> RINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 100</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 4,77</td>
+        <td style='width: 80; text-align: right;'> 477,38</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84149090</td>
+        <td style='width: 380; height: 50; text-align: left;'> RINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 10</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 16,47</td>
+        <td style='width: 80; text-align: right;'> 164,75</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84149090</td>
+        <td style='width: 380; height: 50; text-align: left;'> RINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 60</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 4,56</td>
+        <td style='width: 80; text-align: right;'> 273,38</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84149090</td>
+        <td style='width: 380; height: 50; text-align: left;'> RINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 10</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 4,56</td>
+        <td style='width: 80; text-align: right;'> 45,65</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84149090</td>
+        <td style='width: 380; height: 50; text-align: left;'> RINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 50</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 8,35</td>
+        <td style='width: 80; text-align: right;'> 417,38</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84149090</td>
+        <td style='width: 380; height: 50; text-align: left;'> RINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 100</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 4,77</td>
+        <td style='width: 80; text-align: right;'> 477,25</td>   
+        </tr>    
+        <tr>     
+        <td style='width: 80; text-align: center;'> 2014-12-03</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 80; text-align: center;'> Colômbia</td>
+        <td style='width: 70; text-align: center;'> 84149090</td>
+        <td style='width: 380; height: 50; text-align: left;'> RINTER S.A.</td>
+        <td style='width: 150; text-align: left;'> </td>
+        <td style='width: 50; text-align: center;'> 60</td>
+        <td style='width: 80; text-align: center;'> Unidade</td>        
+        <td style='width: 80; text-align: right;'> 4,56</td>
+        <td style='width: 80; text-align: right;'> 273,38</td>   
+        </tr><tr> <td  colspan='10' style='text-align: center';> Obs.: Dados preliminares sujeitos a modifica�oes </td></tr><tr> <td  colspan='10' style='text-align: center';>Fonte: Informa��o Oficial </td></tr><tr> <td  colspan='10' style='text-align: center';>* Corresponde ao Total da Declara��o </td></tr><tr> <td  colspan='10' style='text-align: center';>www.infoalert.com.br </td></tr><tr> <td  colspan='10' style='text-align: center';>Email: comercial@infoalert.com.br </td></tr></table>
